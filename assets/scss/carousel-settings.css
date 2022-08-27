@@ -1,0 +1,74 @@
+/* --------------- Para customizar cada carrosel, basta colocar o id dele e alterar os componenetes indicators e controls  ----------------*/
+
+ol.carousel-indicators li{
+    border: none !important;
+    box-shadow: none !important;
+}
+ol.carousel-indicators li:focus{
+    outline: none !important;
+}
+ol.carousel-indicators li.active{
+    opacity: 1 !important;
+}
+@media (min-width: 1px) {
+    #carousel-1 ol.carousel-indicators{
+        bottom: -200px;
+    }
+}
+@media (min-width: 559px) {
+    #carousel-1 ol.carousel-indicators{
+        bottom: -110px;
+    }
+}
+
+#carousel-1 a.carousel-control-prev i, #carousel-1 a.carousel-control-next i{
+    font-size: 70px;
+    font-weight: 300 !important;
+}
+
+#carousel-2 .carousel-inner, #carousel-2 .carousel-item{
+    height: 100% !important;
+}
+#carousel-2 .carousel-caption{
+    height: 100% !important;
+    width: 100%;
+}
+#carousel-2 ol.carousel-indicators li{
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+}
+#carousel-2___BV_indicator_2_{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+/* -------------------------------- Mudando a transição do carousel via css SEM ser com bootstrao-vue ------------------------------ */
+
+#carousel-equipamentos-camera .carousel-inner .carousel-item{
+    transition-duration: 2s !important;
+    -o-transition-duration: 2s !important;
+    -moz-transition-duration: 2s !important;
+    -webkit-transition-duration: 2s !important;
+}
+
+/* ---------------------------------------- Importando carosseis customizados para cada componente ---------------------------
+
+ Para criar carrosseis customizados no bootstrap-vue, basta ir em bootstrap-vue>src>components> e criar outras pastas de carousel
+ e importa-las no componenete vue que você está criando
+             
+ Exemplo >>>
+ Nunca se esqueça de importar o Vue e dar o Vue.use(CarouselPlugin)
+ import Vue from '../../node_modules/vue'
+ import { CarouselPlugin } from '../../node_modules/bootstrap-vue/src/components/carousel-1'
+ Vue.use(CarouselPlugin)
+
+             Importando em um componenete produto por exemplo >>>>
+
+ import Vue from '../../node_modules/vue'
+ import { CarouselPlugin } from '../../node_modules/bootstrap-vue/src/components/carousel-2'
+ Vue.use(CarouselPlugin)
+
+ Note que importamos o carousel-2, que foi uma outra pasta criada dentro do bootstrap-vue>src>components
+
+ ----------------------------------------------------------------------------------------------------------------------------*/

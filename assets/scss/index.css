@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url(./padrao.css);
+@import url(./media-queries.css);
+@import url(./carousel-settings.css);
+
+:root{
+    /*------- Bootstrap -------*/
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #ffffff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+
+    --amarelo: #fbc251;
+    --amarelo_escuro: #dda638;
+    --black: #000000;
+    --black_dark: #232b33;
+    --whatsapp: #34af23;
+    --whatsapp_hover: #258c18;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif !important;
+    color: #2c3e50;
+    min-width: 360px;
+}
+p, article{
+    letter-spacing: 0.4px;
+}
+button{
+    letter-spacing: 0.4px;
+}
+button:focus, .btn:focus{
+    box-shadow: none !important;
+}
+.borda{
+    border: 1px solid var(--danger);
+}
+.no-underline:hover{
+    text-decoration: none !important;
+}
+.height-100-vh{
+    height: 100vh;
+}
+.btn-amarelo{
+    background-color: var(--amarelo);
+    color: #000000;
+}
+.bg-amarelo{
+    background-color: var(--amarelo);
+}
+.text-amarelo{
+    color: var(--amarelo);
+}
+.btn-amarelo:hover{
+    background-color: var(--amarelo_escuro);
+}
+.text-italic{
+    font-style: italic;
+}
+.text-facebook{
+    color: #3b5998;
+}
+.text-twitter{
+    color: #00aced;
+}
+.text-instagram{
+    color: #517fa4;
+}
+.text-pinterest{
+    color: #cb2027;
+}
+.text-youtube{
+    color: #bb0000;
+}
+.bg-facebook{
+    background-color: #3b5998;
+}
+.bg-twitter{
+    background-color: #00aced;
+}
+.bg-instagram{
+    background-color: #517fa4;
+}
+.bg-pinterest{
+    background-color: #cb2027;
+}
+.bg-youtube{
+    background-color: #bb0000;
+}
+.borda-top-preto-separation{
+    position: absolute;
+    top: 17px;
+    left: 45px;
+    width: 100%;
+    height: 2px;
+    border-top: #2c3e50 1px solid;
+}
+.modal-content{
+    padding: 0 !important;
+    background: transparent !important;
+    border: none !important;
+}
+#termos .modal-body{
+    border: none !important;
+    background-color: var(--light);
+    border-radius: 5px;
+}
+
+#modal-whatsapp .modal-body, #modal-whatsapp .modal-header, #modal-whatsapp .modal-footer{
+    padding: 0 !important;
+}
+#modal-whatsapp .modal-footer{
+    margin: 0 !important;
+}
+
+#modal-whatsapp___BV_modal_outer_ .modal-backdrop{
+    background: #000;
+    opacity: 0.6;
+}
+#modal-whatsapp___BV_modal_outer_ .modal-backdrop.fade {
+    opacity: 0;
+}
+#modal-whatsapp___BV_modal_outer_ .modal-backdrop.show{
+  opacity: 0.6;
+}
+
+#erro-busca___BV_modal_outer_ .modal-backdrop{
+  background: #fff !important;
+  opacity: 0.7;
+}
+#erro-busca___BV_modal_outer_ .modal-backdrop.fade {
+    opacity: 0;
+}
+#erro-busca___BV_modal_outer_ .modal-backdrop.show{
+  opacity: 0.7;
+}
+.modal-backdrop{
+    width: 100% !important;
+    height: 100% !important;
+}
+.modal-backdrop.show{
+    width: 100% !important;
+    height: 100% !important;
+}
+.text-preto-cidades{
+    color: #2c3e50;
+}
+.text-preto-cidades:hover{
+    color: #000000;
+}
+.div-bolinha-letra-cidade{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: var(--dark) 1px solid;
+}
