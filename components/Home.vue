@@ -81,7 +81,7 @@
 import Vue from '../node_modules/vue'
 import {
   CarouselPlugin
-} from '../node_modules/bootstrap-vue/src/components/carousel-1'
+} from '../node_modules/bootstrap-vue/src/components/carousel'
 Vue.use(CarouselPlugin)
 export default {}
 </script>
