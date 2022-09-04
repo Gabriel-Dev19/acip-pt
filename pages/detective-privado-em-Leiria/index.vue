@@ -3,11 +3,11 @@
     <div class="container d-flex align-items-center row mx-auto">
       <div class="col-12 px-xs-0">
         <h2 class="d-flex py-0">
-          <div class="bl-temas mr-10 my-1" /> Detetive particular em Aveiro
+          <div class="bl-temas mr-10 my-1" /> Detetive particular em Leiria
         </h2>
         <p class="fw-600 mt-4">
-          Você está procurando um Detetive Particular em <b>Aveiro</b>?
-          A ACIP DETETIVES PROFISSIONAIS está em <b>Aveiro</b> e teremos
+          Você está procurando um Detetive Particular em <b>Leiria</b>?
+          A ACIP DETETIVES PROFISSIONAIS está em <b>Leiria</b> e teremos
           o prazer em ajudar você a solucionar suas dúvidas. Com mais de 20 anos de experiência e centenas de casos
           resolvidos, atuamos em todo o território nacional e países do Mercosul. Atuamos nos mais complexos casos
           de investigações conjugais, empresariais, localização de pessoas, acompanhamento de filhos envolvidos com más
@@ -27,18 +27,15 @@
       <section class="col-12 px-0">
         <div class="container px-xs-0">
           <!-- Cidades G -->
-          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
+          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-10 pl-45">
             <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
               <h5 class="text-dark fw-600 mb-0">
-                A
+                C
               </h5>
             </div>
             <div class="borda-top-preto-separation" />
-            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Agueda">
-              <i class="fa fa-circle fs-12 mr-2" /> Águeda
-            </a>
-            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Aveiro">
-              <i class="fa fa-circle fs-12 mr-2" /> Aveiro
+            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="CaldasDaRainha">
+              <i class="fa fa-circle fs-12 mr-2" /> Caldas da Rainha
             </a>
           </div>
         </div>
@@ -46,18 +43,31 @@
       <section class="col-12 px-0">
         <div class="container px-xs-0">
           <!-- Cidades G -->
-          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
+          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-10 pl-45">
             <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
               <h5 class="text-dark fw-600 mb-0">
-                O
+                L
               </h5>
             </div>
             <div class="borda-top-preto-separation" />
-            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="OliveiraDeAzemeis">
-              <i class="fa fa-circle fs-12 mr-2" /> Oliveira de Azeméis
+            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Leiria">
+              <i class="fa fa-circle fs-12 mr-2" /> Leiria
             </a>
-            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Ovar">
-              <i class="fa fa-circle fs-12 mr-2" /> Ovar
+          </div>
+        </div>
+      </section>
+      <section class="col-12 px-0">
+        <div class="container px-xs-0">
+          <!-- Cidades G -->
+          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-10 pl-45">
+            <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
+              <h5 class="text-dark fw-600 mb-0">
+                P
+              </h5>
+            </div>
+            <div class="borda-top-preto-separation" />
+            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Pombal">
+              <i class="fa fa-circle fs-12 mr-2" /> Pombal
             </a>
           </div>
         </div>
@@ -127,35 +137,27 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detetive particular em Aveiro | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detetive particular em Leiria | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
   },
   methods: {
-    Agueda () {
-      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Agueda#sobre')
+    CaldasDaRainha () {
+      this.$router.push('/detective-privado-em-Leiria/detective-privado-em-Caldas-da-Rainha#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    Aveiro () {
-      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Aveiro#sobre')
+    Leiria () {
+      this.$router.push('/detective-privado-em-Leiria/detective-privado-em-Leiria#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    OliveiraDeAzemeis () {
-      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Oliveira-de-Azemeis#sobre')
-      this.$smoothScroll({
-        scrollTo: document.getElementById('sobre'),
-        duration: 500,
-        offset: -130
-      })
-    },
-    Ovar () {
-      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Ovar#sobre')
+    Pombal () {
+      this.$router.push('/detective-privado-em-Leiria/detective-privado-em-Pombal#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,

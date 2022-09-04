@@ -27,7 +27,7 @@
       <section class="col-12 px-0">
         <div class="container px-xs-0">
           <!-- Cidades G -->
-          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
+          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-10 pl-45">
             <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
               <h5 class="text-dark fw-600 mb-0">
                 B
@@ -46,7 +46,7 @@
       <section class="col-12 px-0">
         <div class="container px-xs-0">
           <!-- Cidades G -->
-          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
+          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-10 pl-45">
             <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
               <h5 class="text-dark fw-600 mb-0">
                 F
@@ -62,7 +62,7 @@
       <section class="col-12 px-0">
         <div class="container px-xs-0">
           <!-- Cidades G -->
-          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
+          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-10 pl-45">
             <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
               <h5 class="text-dark fw-600 mb-0">
                 G
@@ -78,7 +78,7 @@
       <section class="col-12 px-0">
         <div class="container px-xs-0">
           <!-- Cidades G -->
-          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
+          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-10 pl-45">
             <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
               <h5 class="text-dark fw-600 mb-0">
                 V
@@ -162,8 +162,8 @@ export default {
     title: 'Detetive particular em Braga | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
   },
   methods: {
-    Braganca () {
-      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Braganca#sobre')
+    Barcelos () {
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Barcelos#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
