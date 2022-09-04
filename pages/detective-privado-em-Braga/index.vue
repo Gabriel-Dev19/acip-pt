@@ -3,11 +3,11 @@
     <div class="container d-flex align-items-center row mx-auto">
       <div class="col-12 px-xs-0">
         <h2 class="d-flex py-0">
-          <div class="bl-temas mr-10 my-1" /> Detetive particular em Aveiro
+          <div class="bl-temas mr-10 my-1" /> Detetive particular em Braga
         </h2>
         <p class="fw-600 mt-4">
-          Você está procurando um Detetive Particular em <b>Aveiro</b>?
-          A ACIP DETETIVES PROFISSIONAIS está em <b>Aveiro</b> e teremos
+          Você está procurando um Detetive Particular em <b>Braga</b>?
+          A ACIP DETETIVES PROFISSIONAIS está em <b>Braga</b> e teremos
           o prazer em ajudar você a solucionar suas dúvidas. Com mais de 20 anos de experiência e centenas de casos
           resolvidos, atuamos em todo o território nacional e países do Mercosul. Atuamos nos mais complexos casos
           de investigações conjugais, empresariais, localização de pessoas, acompanhamento de filhos envolvidos com más
@@ -30,15 +30,15 @@
           <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
             <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
               <h5 class="text-dark fw-600 mb-0">
-                A
+                B
               </h5>
             </div>
             <div class="borda-top-preto-separation" />
-            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Agueda">
-              <i class="fa fa-circle fs-12 mr-2" /> Águeda
+            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Barcelos">
+              <i class="fa fa-circle fs-12 mr-2" /> Barcelos
             </a>
-            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Aveiro">
-              <i class="fa fa-circle fs-12 mr-2" /> Aveiro
+            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Braga">
+              <i class="fa fa-circle fs-12 mr-2" /> Braga
             </a>
           </div>
         </div>
@@ -49,15 +49,47 @@
           <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
             <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
               <h5 class="text-dark fw-600 mb-0">
-                O
+                F
               </h5>
             </div>
             <div class="borda-top-preto-separation" />
-            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="OliveiraDeAzemeis">
-              <i class="fa fa-circle fs-12 mr-2" /> Oliveira de Azeméis
+            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Fafe">
+              <i class="fa fa-circle fs-12 mr-2" /> Fafe
             </a>
-            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Ovar">
-              <i class="fa fa-circle fs-12 mr-2" /> Ovar
+          </div>
+        </div>
+      </section>
+      <section class="col-12 px-0">
+        <div class="container px-xs-0">
+          <!-- Cidades G -->
+          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
+            <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
+              <h5 class="text-dark fw-600 mb-0">
+                G
+              </h5>
+            </div>
+            <div class="borda-top-preto-separation" />
+            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="Guimaraes">
+              <i class="fa fa-circle fs-12 mr-2" /> Guimarães
+            </a>
+          </div>
+        </div>
+      </section>
+      <section class="col-12 px-0">
+        <div class="container px-xs-0">
+          <!-- Cidades G -->
+          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-30 pl-45">
+            <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
+              <h5 class="text-dark fw-600 mb-0">
+                V
+              </h5>
+            </div>
+            <div class="borda-top-preto-separation" />
+            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="VilaNovaDeFamalicao">
+              <i class="fa fa-circle fs-12 mr-2" /> Vila Nova de Famalicão
+            </a>
+            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="VilaVerde">
+              <i class="fa fa-circle fs-12 mr-2" /> Vila Verde
             </a>
           </div>
         </div>
@@ -127,35 +159,51 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detetive particular em Aveiro | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detetive particular em Braga | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
   },
   methods: {
-    Agueda () {
-      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Agueda#sobre')
+    Braganca () {
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Braganca#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    Aveiro () {
-      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Aveiro#sobre')
+    Braga () {
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Braga#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    OliveiraDeAzemeis () {
-      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Oliveira-de-Azemeis#sobre')
+    Fafe () {
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Fafe#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    Ovar () {
-      this.$router.push('/detective-privado-em-Aveiro/detective-privado-em-Ovar#sobre')
+    Guimaraes () {
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Guimaraes#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
+    VilaNovaDeFamalicao () {
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Vila-Nova-de-Famalicao#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
+    VilaVerde () {
+      this.$router.push('/detective-privado-em-Braga/detective-privado-em-Vila-Verde#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
