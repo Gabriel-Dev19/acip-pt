@@ -57,32 +57,56 @@
                     </button>
                     <SlideUpDown :active="ShowLocalidadesMobile" class="col-12 px-0" :duration="500">
                       <div class="col-12 bl-amarela ml-2 pl-2 pr-0">
-                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="SantaCatarinaMobile">
-                          Santa Catarina
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="AveiroMobile">
+                          Aveiro
                         </a>
-                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="ParanaMobile">
-                          Paraná
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="BragaMobile">
+                          Braga
                         </a>
-                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="RioGrandeDoSulMobile">
-                          Rio Grande do Sul
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="BragancaMobile">
+                          Bragança
                         </a>
-                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="SaoPauloMobile">
-                          São paulo
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="CasteloBrancoMobile">
+                          Castelo Branco
                         </a>
-                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="RioDeJaneiroMobile">
-                          Rio de Janeiro
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="CoimbraMobile">
+                          Coimbra
                         </a>
-                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="MinasGeraisMobile">
-                          Minas Gerais
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="EvoraMobile">
+                          Évora
                         </a>
-                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="DistritoFederalMobile">
-                          Distrito Federal
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="FaroMobile">
+                          Faro
                         </a>
-                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="MatoGrossoDoSulMobile">
-                          Mato Grosso do Sul
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="GuardaMobile">
+                          Guarda
                         </a>
-                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="GoiasMobile">
-                          Goiás
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="LeiriaMobile">
+                          Leiria
+                        </a>
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="LisboaMobile">
+                          Lisboa
+                        </a>
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="PortalegreMobile">
+                          Portalegre
+                        </a>
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="PortoMobile">
+                          Porto
+                        </a>
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="SantaremMobile">
+                          Santarém
+                        </a>
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="SetubalMobile">
+                          Setúbal
+                        </a>
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="VianaDoCasteloMobile">
+                          Viana do Castelo
+                        </a>
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="VilaRealMobile">
+                          Vila Real
+                        </a>
+                        <a class="text-dark btn text-left py-1 col-12 px-0 fw-500" @click.prevent="ViseuMobile">
+                          Viseu
                         </a>
                       </div>
                     </SlideUpDown>
@@ -142,33 +166,57 @@
               <div class="nav-link cursor-pointer position-relative py-1 d-flex align-items-center rounded" @mouseenter="ShowDropdownLocalidades = true" @mouseleave="ShowDropdownLocalidades = false">
                 Localidades <i class="fa fa-angle-down ml-2" />
                 <transition enter-active-class="animate__animated animate__fadeIn">
-                  <div v-show="ShowDropdownLocalidades" class="dropdown-localidades px-10 pt-20 pb-10 shadow">
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="SantaCatarina">
-                      Santa Catarina
+                  <div v-show="ShowDropdownLocalidades" class="dropdown-localidades px-10 pt-20 pb-10 shadow" style="overflow: auto; height: 450px;">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Aveiro">
+                      Aveiro
                     </a>
-                    <a class="btn mt-1 btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Parana">
-                      Paraná
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Braga">
+                      Braga
                     </a>
-                    <a class="btn mt-1 btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="RioGrandeDoSul">
-                      Rio Grande do Sul
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Braganca">
+                      Bragança
                     </a>
-                    <a class="btn mt-1 btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="SaoPaulo">
-                      São Paulo
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="CasteloBranco">
+                      Castelo Branco
                     </a>
-                    <a class="btn mt-1 btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="RioDeJaneiro">
-                      Rio de Janeiro
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Coimbra">
+                      Coimbra
                     </a>
-                    <a class="btn mt-1 btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="MinasGerais">
-                      Minas gerais
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Evora">
+                      Évora
                     </a>
-                    <a class="btn mt-1 btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="DistritoFederal">
-                      Distrito Federal
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Faro">
+                      Faro
                     </a>
-                    <a class="btn mt-1 btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="MatoGrossoDoSul">
-                      Mato Grosso do Sul
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Guarda">
+                      Guarda
                     </a>
-                    <a class="btn mt-1 btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Goias">
-                      Goiás
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Leiria">
+                      Leiria
+                    </a>
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Lisboa">
+                      Lisboa
+                    </a>
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Portalegre">
+                      Portalegre
+                    </a>
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Porto">
+                      Porto
+                    </a>
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Santarem">
+                      Santarém
+                    </a>
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Setubal">
+                      Setúbal
+                    </a>
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="VianaDoCastelo">
+                      Viana do Castelo
+                    </a>
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="VilaReal">
+                      Vila Real
+                    </a>
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Viseu">
+                      Viseu
                     </a>
                   </div>
                 </transition>
@@ -1143,82 +1191,145 @@ export default {
       this.HideNav()
     },
     // Chamadas cidades desktop
-    SantaCatarina () {
-      this.$router.push('/detetive-particular-em-Santa-Catarina#sobre')
+    Aveiro () {
+      this.$router.push('/detective-privado-em-Aveiro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    Parana () {
-      this.$router.push('/detetive-particular-no-Parana#sobre')
+    Braga () {
+      this.$router.push('/detective-privado-em-Braga#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    RioGrandeDoSul () {
-      this.$router.push('/detetive-particular-no-Rio-Grande-do-Sul#sobre')
+    Braganca () {
+      this.$router.push('/detective-privado-em-Braganca#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    SaoPaulo () {
-      this.$router.push('/detetive-particular-em-Sao-Paulo#sobre')
+    CasteloBranco () {
+      this.$router.push('/detective-privado-em-Castelo-Branco#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    RioDeJaneiro () {
-      this.$router.push('/detetive-particular-no-Rio-de-Janeiro#sobre')
+    Coimbra () {
+      this.$router.push('/detective-privado-em-Coimbra#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    MinasGerais () {
-      this.$router.push('/detetive-particular-em-Minas-Gerais#sobre')
+    Evora () {
+      this.$router.push('/detective-privado-em-Evora#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    DistritoFederal () {
-      this.$router.push('/detetive-particular-no-Distrito-Federal#sobre')
+    Faro () {
+      this.$router.push('/detective-privado-em-Faro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    MatoGrossoDoSul () {
-      this.$router.push('/detetive-particular-no-Mato-Grosso-do-Sul#sobre')
+    Guarda () {
+      this.$router.push('/detective-privado-em-Guarda#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    Goias () {
-      this.$router.push('/detetive-particular-em-Goias#sobre')
+    Leiria () {
+      this.$router.push('/detective-privado-em-Leiria#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-
+    Lisboa () {
+      this.$router.push('/detective-privado-em-Lisboa#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
+    Portalegre () {
+      this.$router.push('/detective-privado-em-Portalegre#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
+    Porto () {
+      this.$router.push('/detective-privado-em-Porto#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
+    Santarem () {
+      this.$router.push('/detective-privado-em-Santarem#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
+    Setubal () {
+      this.$router.push('/detective-privado-em-Setubal#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
+    VianaDoCastelo () {
+      this.$router.push('/detective-privado-em-Viana-do-Castelo#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
+    VilaReal () {
+      this.$router.push('/detective-privado-em-Vila-Real#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
+    Viseu () {
+      this.$router.push('/detective-privado-em-Viseu#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -130
+      })
+    },
     // Chamada cidades mobile
-    SantaCatarinaMobile () {
-      this.$router.push('/detetive-particular-em-Santa-Catarina#sobre')
+    AveiroMobile () {
+      this.$router.push('/detective-privado-em-Aveiro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -1226,8 +1337,8 @@ export default {
       })
       this.HideNav()
     },
-    ParanaMobile () {
-      this.$router.push('/detetive-particular-no-Parana#sobre')
+    BragaMobile () {
+      this.$router.push('/detective-privado-em-Braga#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -1235,8 +1346,8 @@ export default {
       })
       this.HideNav()
     },
-    RioGrandeDoSulMobile () {
-      this.$router.push('/detetive-particular-no-Rio-Grande-do-Sul#sobre')
+    BragancaMobile () {
+      this.$router.push('/detective-privado-em-Braganca#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -1244,8 +1355,8 @@ export default {
       })
       this.HideNav()
     },
-    SaoPauloMobile () {
-      this.$router.push('/detetive-particular-em-Sao-Paulo#sobre')
+    CasteloBrancoMobile () {
+      this.$router.push('/detective-privado-em-Castelo-Branco#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -1253,8 +1364,8 @@ export default {
       })
       this.HideNav()
     },
-    RioDeJaneiroMobile () {
-      this.$router.push('/detetive-particular-no-Rio-de-Janeiro#sobre')
+    CoimbraMobile () {
+      this.$router.push('/detective-privado-em-Coimbra#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -1262,8 +1373,8 @@ export default {
       })
       this.HideNav()
     },
-    MinasGeraisMobile () {
-      this.$router.push('/detetive-particular-em-Minas-Gerais#sobre')
+    EvoraMobile () {
+      this.$router.push('/detective-privado-em-Evora#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -1271,8 +1382,8 @@ export default {
       })
       this.HideNav()
     },
-    DistritoFederalMobile () {
-      this.$router.push('/detetive-particular-no-Distrito-Federal#sobre')
+    FaroMobile () {
+      this.$router.push('/detective-privado-em-Faro#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -1280,8 +1391,8 @@ export default {
       })
       this.HideNav()
     },
-    MatoGrossoDoSulMobile () {
-      this.$router.push('/detetive-particular-no-Mato-Grosso-do-Sul#sobre')
+    GuardaMobile () {
+      this.$router.push('/detective-privado-em-Guarda#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
@@ -1289,8 +1400,80 @@ export default {
       })
       this.HideNav()
     },
-    GoiasMobile () {
-      this.$router.push('/detetive-particular-em-Goias#sobre')
+    LeiriaMobile () {
+      this.$router.push('/detective-privado-em-Leiria#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      this.HideNav()
+    },
+    LisboaMobile () {
+      this.$router.push('/detective-privado-em-Lisboa#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      this.HideNav()
+    },
+    PortalegreMobile () {
+      this.$router.push('/detective-privado-em-Portalegre#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      this.HideNav()
+    },
+    PortoMobile () {
+      this.$router.push('/detective-privado-em-Porto#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      this.HideNav()
+    },
+    SantaremMobile () {
+      this.$router.push('/detective-privado-em-Santarem#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      this.HideNav()
+    },
+    SetubalMobile () {
+      this.$router.push('/detective-privado-em-Setubal#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      this.HideNav()
+    },
+    VianaDoCasteloMobile () {
+      this.$router.push('/detective-privado-em-Viana-do-Castelo#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      this.HideNav()
+    },
+    VilaRealMobile () {
+      this.$router.push('/detective-privado-em-Vila-Real#sobre')
+      this.$smoothScroll({
+        scrollTo: document.getElementById('sobre'),
+        duration: 500,
+        offset: -70
+      })
+      this.HideNav()
+    },
+    ViseuMobile () {
+      this.$router.push('/detective-privado-em-Viseu#sobre')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
