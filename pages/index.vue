@@ -89,6 +89,13 @@
 import BtnDarkFaleNoWhatsapp from '../components/buttons/btn-dark-fale-no-whatsapp.vue'
 import BtnDarkLigueAgora from '../components/buttons/btn-dark-ligue-agora.vue'
 export default {
+  head: {
+    link: [
+      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/', hreflang: 'x-default' },
+      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/', hreflang: 'pt-br' },
+      { rel: 'alternate', href: 'https://www.acipdetectives.pt/', hreflang: 'pt' }
+    ]
+  },
   components: { BtnDarkLigueAgora, BtnDarkFaleNoWhatsapp },
   layout: 'LayoutPadrao'
 }
