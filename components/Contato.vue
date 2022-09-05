@@ -167,64 +167,46 @@
             A Acip Detectives Profissionais é uma agência séria que preza pela confidenciabilidade
             e total profissionalismo. Nos siga nas redes sociais e fique por dentro!
           </p>
-          <div class="bb-amarelo col-sm-10 mx-auto mb-4" />
-          <div class="d-flex justify-content-center">
-            <div class="d-flex justify-content-center">
-              <a href="https://www.facebook.com/ACIP-Detetive-Particular-105042491799720" target="_blank" rel="nopenner noreferrer" class="d-flex align-items-center text-dark fw-600 no-underline">
-                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
-                  <i class="fab fa-facebook-f fs-23" />
-                </div>
-              </a>
-              <a href="https://twitter.com/AcipDetetives" target="_blank" rel="nopenner noreferrer" class="d-flex ml-2 align-items-center text-dark fw-600 no-underline">
-                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
-                  <i class="fab fa-twitter fs-23" />
-                </div>
-              </a>
-              <a href="https://www.youtube.com/channel/UCQBWKfw3DmDokMBLF6croTA" target="_blank" rel="nopenner noreferrer" class="d-flex ml-2 align-items-center text-dark fw-600 no-underline">
-                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
-                  <i class="fab fa-youtube fs-23" />
-                </div>
-              </a>
-              <a href="https://www.instagram.com/acipdetetives/" target="_blank" rel="nopenner noreferrer" class="d-flex ml-2 align-items-center text-dark fw-600 no-underline">
-                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
-                  <i class="fab fa-instagram fs-23" />
-                </div>
-              </a>
-              <a href="https://www.pinterest.com/acipdetetiveparticular/_created/" target="_blank" rel="nopenner noreferrer" class="d-flex ml-2 align-items-center text-dark fw-600 no-underline">
-                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
-                  <i class="fab fa-pinterest fs-23" />
-                </div>
-              </a>
-            </div>
-          </div>
           <div class="bb-amarelo col-sm-10 mx-auto my-4" />
           <div>
             <p class="mb-0 text-center fw-600">
-              Baln. Camboriú
+              Contacto
             </p>
             <BtnQuatroSete class="mt-1" />
           </div>
-          <div class="mt-3">
-            <p class="mb-0 text-center fw-600">
-              Florianópolis
-            </p>
-            <BtnQuatroOito class="mt-1" />
+          <div class="bb-amarelo col-sm-10 mx-auto my-4" />
+          <div class="d-flex justify-content-center">
+            <div class="d-flex justify-content-center flex-column">
+              <a href="https://www.facebook.com/ACIP-Detetive-Particular-105042491799720" target="_blank" rel="nopenner noreferrer" class="d-flex align-items-center text-dark fw-600 no-underline my-2">
+                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
+                  <i class="fab fa-facebook-f fs-23" />
+                </div> Facebook
+              </a>
+              <a href="https://twitter.com/AcipDetetives" target="_blank" rel="nopenner noreferrer" class="d-flex align-items-center text-dark fw-600 no-underline my-2">
+                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
+                  <i class="fab fa-twitter fs-23" />
+                </div> Twitter
+              </a>
+              <a href="https://www.youtube.com/channel/UCQBWKfw3DmDokMBLF6croTA" target="_blank" rel="nopenner noreferrer" class="d-flex align-items-center text-dark fw-600 no-underline my-2">
+                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
+                  <i class="fab fa-youtube fs-23" />
+                </div> Youtube
+              </a>
+              <a href="https://www.instagram.com/acipdetetives/" target="_blank" rel="nopenner noreferrer" class="d-flex align-items-center text-dark fw-600 no-underline my-2">
+                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
+                  <i class="fab fa-instagram fs-23" />
+                </div> Instagram
+              </a>
+              <a href="https://www.pinterest.com/acipdetetiveparticular/_created/" target="_blank" rel="nopenner noreferrer" class="d-flex align-items-center text-dark fw-600 no-underline my-2">
+                <div class="bolinha-contato-amarela d-flex justify-content-center mr-10 align-items-center text-dark">
+                  <i class="fab fa-pinterest fs-23" />
+                </div> Pinterest
+              </a>
+            </div>
           </div>
-          <div class="mt-3">
-            <p class="mb-0 text-center fw-600">
-              Curitiba
-            </p>
-            <BtnQuatroUm class="mt-1" />
-          </div>
-          <div class="mt-3">
-            <p class="mb-0 text-center fw-600">
-              Caçador
-            </p>
-            <BtnQuatroNove class="mt-1" />
-          </div>
-          <a href="mailto:contato@acipdetetives.com.br" class="no-underline text-dark">
+          <a href="mailto:contacto@acipdetectives.com.br" class="no-underline text-dark">
             <div class="d-flex mt-30 align-items-center fw-500 justify-content-center">
-              <i class="fa fa-envelope mr-2 fs-27 fw-400" /> contato@acipdetetives.com.br
+              <i class="fa fa-envelope mr-2 fs-27 fw-400" /> contacto@acipdetectives.com.br
             </div>
           </a>
         </div>
@@ -236,11 +218,11 @@
 import { required, minLength, email } from '../node_modules/vuelidate/lib/validators'
 import axios from '../node_modules/axios'
 import BtnQuatroSete from './buttons/BtnQuatroSete.vue'
-import BtnQuatroOito from './buttons/BtnQuatroOito.vue'
-import BtnQuatroUm from './buttons/BtnQuatroUm.vue'
-import BtnQuatroNove from './buttons/BtnQuatroNove.vue'
+// import BtnQuatroOito from './buttons/BtnQuatroOito.vue'
+// import BtnQuatroUm from './buttons/BtnQuatroUm.vue'
+// import BtnQuatroNove from './buttons/BtnQuatroNove.vue'
 export default {
-  components: { BtnQuatroSete, BtnQuatroOito, BtnQuatroUm, BtnQuatroNove },
+  components: { BtnQuatroSete },
   data () {
     return {
       nome: '',
@@ -303,7 +285,7 @@ export default {
       this.$v.$touch()
       if (this.$v.$invalid === false) {
         axios.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded'
-        axios.post('https://www.acipdetetivesprofissionais.com.br/envio.php', JSON.stringify({
+        axios.post('https://www.acipdetectives.pt/envio.php', JSON.stringify({
           nome: this.nome,
           email: this.email,
           telefone: this.telefone,

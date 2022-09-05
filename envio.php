@@ -18,7 +18,7 @@ $email_send = "globaldetetives@contato.com";
 $showMessage = '';
 
 
-$subject = "Contato site ACIP Detectives Profissionais";
+$subject = "Contacto site ACIP Detectives Profissionais";
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= 'Content-type: text/html; charset=iso-utf-8' . "\r\n";
 $headers .= 'From: ' . 'ACIP Detectives Profissionais ' .$email_send."\r\n".

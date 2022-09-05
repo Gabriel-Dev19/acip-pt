@@ -11,7 +11,7 @@
         </p>
         <p class="fw-600">
           Você que já trabalha como detective privado em qualquer cidade do Brasil e deseja se tornar um prestador de
-          serviços para nossa agência faça contacto pelo e-mail: acipdetetives@gmail.com
+          serviços para nossa agência faça contacto pelo e-mail: contacto@acipdetectives.com.br
         </p>
         <h2 class="d-flex mt-30 py-0">
           <div class="bl-temas mr-10 my-1" /> Requisitos

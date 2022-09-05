@@ -26,10 +26,10 @@
               <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Localização de pessoas
             </a>
             <a v-smooth-scroll="{duration: 500, offset: -30}" href="#servicos" class="col-12 no-underline fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center justify-content-xs-center justify-content-sm-center justify-content-lg-start fs-17 px-0" @click.prevent="$root.$emit('EmitShowServicoCurso')">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Curso de detetive particular
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Curso de Detective particular
             </a>
             <a v-smooth-scroll="{duration: 500, offset: -100}" href="#servicos" class="col-12 no-underline fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center justify-content-xs-center justify-content-sm-center justify-content-lg-start fs-17 px-0" @click.prevent="$root.$emit('EmitShowServicoCurso')">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Curso de detetive particular
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Curso de Detective particular
             </a>
             <a v-smooth-scroll="{duration: 500, offset: -30}" href="#servicos" class="col-12 no-underline fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center justify-content-xs-center justify-content-sm-center justify-content-lg-start fs-17 px-0" @click.prevent="$root.$emit('EmitShowServicoAcompanhamento')">
               <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Acompanhamento de filho
@@ -63,58 +63,58 @@
               <div class="bl-temas mr-2" /> Localidades
             </h6>
             <a class="col-12 fw-600 mt-3 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SantaCatarinaMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive em Santa Catarina
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Santa Catarina
             </a>
             <a class="col-12 fw-600 mt-3 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SantaCatarina">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive em Santa Catarina
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Santa Catarina
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="ParanaMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Paraná
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Paraná
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Parana">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Paraná
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Paraná
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="RioGrandeDoSulMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Rio Grande do Sul
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Rio Grande do Sul
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="RioGrandeDoSul">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Rio Grande do Sul
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Rio Grande do Sul
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SaoPauloMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive em São Paulo
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em São Paulo
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SaoPaulo">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive em São Paulo
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em São Paulo
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="RioDeJaneiroMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Rio de Janeiro
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Rio de Janeiro
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="RioDeJaneiro">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Rio de Janeiro
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Rio de Janeiro
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="MinasGeraisMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive em Minas Gerais
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Minas Gerais
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="MinasGerais">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive em Minas Gerais
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Minas Gerais
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="DistritoFederalMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Distrito Federal
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Distrito Federal
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="DistritoFederal">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Distrito Federal
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Distrito Federal
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="MatoGrossoDoSulMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Mato Grosso do Sul
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Mato Grosso do Sul
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="MatoGrossoDoSul">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive no Mato Grosso do Sul
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Mato Grosso do Sul
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="GoiasMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive em Goiás
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Goiás
             </a>
             <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Goias">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detetive em Goiás
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Goiás
             </a>
           </div>
         </div>
@@ -167,13 +167,13 @@
         </div>
         <div class="col-12 px-0 d-flex justify-content-center row mx-auto mt-70">
           <div class="col-lg-10 col-xl-9 px-0 text-center fw-500 fs-15">
-            A Acip Detetives Profissionais é uma empresa que preza e respeita a privacidade e confidencialidade do
+            A Acip Detectives Profissionais é uma empresa que preza e respeita a privacidade e confidencialidade do
             cliente. Constituída de acordo com a lei federal <a href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13432.htm" target="_blank" rel="noopener noreferrer">13.432/2017</a>
           </div>
         </div>
         <div class="col-12 px-0 d-flex justify-content-between row mx-auto mt-60">
           <div class="col-lg-6 px-0 text-xs-center fs-15 fw-600 text-sm-center text-lg-left">
-            &copy; 2021 - Acip Detetives Profissionais - Todos os direitos reservados
+            &copy; 2021 - Acip Detectives Profissionais - Todos os direitos reservados
           </div>
           <div class="col-lg-6 mt-xs-4 mt-sm-4 mt-lg-0 fw-600 px-0 text-xs-center text-sm-center fs-15 text-lg-right">
             <a href="https://portfoliogabrieldev.000webhostapp.com/" class="no-underline d-flex align-items-center justify-content-xs-center justify-content-sm-center justify-content-lg-end" target="_blank">

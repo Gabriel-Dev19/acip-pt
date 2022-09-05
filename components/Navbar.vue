@@ -115,7 +115,7 @@
                     Contacto
                   </a>
                 </div>
-                <a href="https://wa.me/554195190579?text=Olá,+estou+visitando+o+site+da+Acip+Detetives+e+gostaria+de+receber+mais+informações" class="col-10 mx-auto btn text-white d-flex fw-500 justify-content-center align-items-center mt-35 border-radius-20 px-25 btn-whatsapp-navbar">
+                <a href="https://wa.me/554195190579?text=Olá,+estou+visitando+o+site+da+Acip+Detectives+e+gostaria+de+receber+mais+informações" class="col-10 mx-auto btn text-white d-flex fw-500 justify-content-center align-items-center mt-35 border-radius-20 px-25 btn-whatsapp-navbar">
                   <i class="fab fa-whatsapp fw-300 fs-18 mr-2" /> WhatsApp
                 </a>
                 <div class="col-12 mt-70 mx-auto px-1 align-self-end justify-content-center d-flex row mx-auto">
