@@ -159,7 +159,7 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Braga | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Braga | Lisboa | Porto | Évora | Faro | Coimbra | Aveiro '
   },
   methods: {
     Barcelos () {

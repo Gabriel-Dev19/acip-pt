@@ -105,7 +105,7 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Portalegre | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Portalegre | Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro '
   },
   methods: {
     Portalegre () {

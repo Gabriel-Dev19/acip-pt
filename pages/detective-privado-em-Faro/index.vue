@@ -169,7 +169,7 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Faro | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Faro | Lisboa | Porto | Évora  | Braga | Coimbra | Aveiro '
   },
   methods: {
     Albufeira () {

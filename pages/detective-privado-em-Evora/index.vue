@@ -105,7 +105,7 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Évora | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Évora | Lisboa | Porto | Braga | Faro | Coimbra | Aveiro '
   },
   methods: {
     Evora () {

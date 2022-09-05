@@ -80,7 +80,7 @@ export default {
   components: { BtnScrollContato },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Paços de Ferreira | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Paços de Ferreira | Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro '
   }
 }
 </script>

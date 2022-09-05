@@ -80,7 +80,7 @@ export default {
   components: { BtnScrollContato },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Oeiras | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Oeiras | Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro '
   }
 }
 </script>

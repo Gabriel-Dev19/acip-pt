@@ -108,7 +108,7 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Setúbal | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Setúbal | Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro '
   },
   methods: {
     Seixal () {

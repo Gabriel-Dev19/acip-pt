@@ -279,7 +279,7 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Lisboa | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro '
   },
   methods: {
     Alcobaca () {

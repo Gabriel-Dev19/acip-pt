@@ -105,7 +105,7 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Viseu | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Viseu | Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro '
   },
   methods: {
     Viseu () {

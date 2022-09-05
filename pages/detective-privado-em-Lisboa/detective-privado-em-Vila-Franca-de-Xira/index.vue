@@ -80,7 +80,7 @@ export default {
   components: { BtnScrollContato },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Vila Franca de Xira | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Vila Franca de Xira | Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro '
   }
 }
 </script>

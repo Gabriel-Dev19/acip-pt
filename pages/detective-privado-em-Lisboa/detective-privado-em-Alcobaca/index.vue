@@ -80,7 +80,7 @@ export default {
   components: { BtnScrollContato },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Alcobaça | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Alcobaça | Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro '
   }
 }
 </script>

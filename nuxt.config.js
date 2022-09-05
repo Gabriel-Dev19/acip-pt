@@ -6,7 +6,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Detective privado em Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul',
+    title: 'Detective privado em Lisboa | Porto | Évora  | Braga | Faro | Coimbra | Aveiro ',
     htmlAttrs: {
       lang: 'pt-BR'
     },

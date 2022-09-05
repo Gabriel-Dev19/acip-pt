@@ -127,7 +127,7 @@ export default {
   },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detective privado em Aveiro | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Aveiro | Lisboa | Porto | Évora  | Braga | Faro | Coimbra '
   },
   methods: {
     Agueda () {

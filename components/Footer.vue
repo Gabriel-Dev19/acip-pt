@@ -62,59 +62,59 @@
             <h6 class="d-flex justify-content-xs-center justify-content-sm-center justify-content-lg-start col-12 px-0 fw-700 mb-0">
               <div class="bl-temas mr-2" /> Localidades
             </h6>
-            <a class="col-12 fw-600 mt-3 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SantaCatarinaMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Santa Catarina
+            <a class="col-12 fw-600 mt-3 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="AveiroMobile">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Aveiro
             </a>
-            <a class="col-12 fw-600 mt-3 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SantaCatarina">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Santa Catarina
+            <a class="col-12 fw-600 mt-3 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Aveiro">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Aveiro
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="ParanaMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Paraná
+            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="BragaMobile">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Braga
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Parana">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Paraná
+            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Braga">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Braga
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="RioGrandeDoSulMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Rio Grande do Sul
+            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="EvoraMobile">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Évora
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="RioGrandeDoSul">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Rio Grande do Sul
+            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Evora">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Évora
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SaoPauloMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em São Paulo
+            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="FaroMobile">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Faro
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SaoPaulo">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em São Paulo
+            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Faro">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Faro
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="RioDeJaneiroMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Rio de Janeiro
+            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="LeiriaMobile">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Leiria
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="RioDeJaneiro">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Rio de Janeiro
+            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Leiria">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Leiria
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="MinasGeraisMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Minas Gerais
+            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="LisboaMobile">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Lisboa
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="MinasGerais">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Minas Gerais
+            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Lisboa">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Lisboa
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="DistritoFederalMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Distrito Federal
+            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="PortoMobile">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Porto
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="DistritoFederal">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Distrito Federal
+            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Porto">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Porto
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="MatoGrossoDoSulMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Mato Grosso do Sul
+            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SantaremMobile">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Santarém
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="MatoGrossoDoSul">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective no Mato Grosso do Sul
+            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Santarem">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Santarém
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="GoiasMobile">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Goiás
+            <a class="col-12 fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="SetubalMobile">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Setúbal
             </a>
-            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Goias">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Goiás
+            <a class="col-12 fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start no-underline fs-17 px-0" @click.prevent="Setubal">
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Detective em Setúbal
             </a>
           </div>
         </div>
@@ -205,79 +205,78 @@ export default {
         offset: -130
       })
     },
-    SantaCatarina () {
-      this.$router.push('/detetive-particular-em-Santa-Catarina')
+    Aveiro () {
+      this.$router.push('/detective-privado-em-Aveiro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    Parana () {
-      this.$router.push('/detetive-particular-no-Parana')
+    Braga () {
+      this.$router.push('/detective-privado-em-Braga')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    RioGrandeDoSul () {
-      this.$router.push('/detetive-particular-no-Rio-Grande-do-Sul')
+    Evora () {
+      this.$router.push('/detective-privado-em-Evora')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    SaoPaulo () {
-      this.$router.push('/detetive-particular-em-Sao-Paulo')
+    Faro () {
+      this.$router.push('/detective-privado-em-Faro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    RioDeJaneiro () {
-      this.$router.push('/detetive-particular-no-Rio-de-Janeiro')
+    Leiria () {
+      this.$router.push('/detective-privado-em-Leiria')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    MinasGerais () {
-      this.$router.push('/detetive-particular-em-Minas-Gerais')
+    Lisboa () {
+      this.$router.push('/detective-privado-em-Lisboa')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    DistritoFederal () {
-      this.$router.push('/detetive-particular-no-Distrito-Federal')
+    Porto () {
+      this.$router.push('/detective-privado-em-Porto')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    MatoGrossoDoSul () {
-      this.$router.push('/detetive-particular-no-Mato-Grosso-do-Sul')
+    Santarem () {
+      this.$router.push('/detective-privado-em-Santarem')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-    Goias () {
-      this.$router.push('/detetive-particular-em-Goias')
+    Setubal () {
+      this.$router.push('/detective-privado-em-Setubal')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -130
       })
     },
-
     // Chamada cidades mobile
     PoliticaMobile () {
       this.$router.push('/politica-de-privacidade/#sobre')
@@ -295,72 +294,72 @@ export default {
         offset: -70
       })
     },
-    SantaCatarinaMobile () {
-      this.$router.push('/detetive-particular-em-Santa-Catarina')
+    AveiroMobile () {
+      this.$router.push('/detective-privado-em-Aveiro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -70
       })
     },
-    ParanaMobile () {
-      this.$router.push('/detetive-particular-no-Parana')
+    BragaMobile () {
+      this.$router.push('/detective-privado-em-Braga')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -70
       })
     },
-    RioGrandeDoSulMobile () {
-      this.$router.push('/detetive-particular-no-Rio-Grande-do-Sul')
+    EvoraMobile () {
+      this.$router.push('/detective-privado-em-Evora')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -70
       })
     },
-    SaoPauloMobile () {
-      this.$router.push('/detetive-particular-em-Sao-Paulo')
+    FaroMobile () {
+      this.$router.push('/detective-privado-em-Faro')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -70
       })
     },
-    RioDeJaneiroMobile () {
-      this.$router.push('/detetive-particular-no-Rio-de-Janeiro')
+    LeiriaMobile () {
+      this.$router.push('/detective-privado-em-Leiria')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -70
       })
     },
-    MinasGeraisMobile () {
-      this.$router.push('/detetive-particular-em-Minas-Gerais')
+    LisboaMobile () {
+      this.$router.push('/detective-privado-em-Lisboa')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -70
       })
     },
-    DistritoFederalMobile () {
-      this.$router.push('/detetive-particular-no-Distrito-Federal')
+    PortoMobile () {
+      this.$router.push('/detective-privado-em-Porto')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -70
       })
     },
-    MatoGrossoDoSulMobile () {
-      this.$router.push('/detetive-particular-no-Mato-Grosso-do-Sul')
+    SantaremMobile () {
+      this.$router.push('/detective-privado-em-Santarem')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
         offset: -70
       })
     },
-    GoiasMobile () {
-      this.$router.push('/detetive-particular-em-Goias')
+    SetubalMobile () {
+      this.$router.push('/detective-privado-em-Setubal')
       this.$smoothScroll({
         scrollTo: document.getElementById('sobre'),
         duration: 500,
