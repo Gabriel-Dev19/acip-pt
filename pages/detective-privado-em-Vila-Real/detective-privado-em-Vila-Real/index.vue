@@ -3,11 +3,11 @@
     <div class="container d-flex align-items-center row mx-auto">
       <div class="col-12 px-xs-0">
         <h2 class="d-flex py-0">
-          <div class="bl-temas mr-10 my-1" /> Detetive particular em Viana do Castelo
+          <div class="bl-temas mr-10 my-1" /> Detetive particular em Vila Real
         </h2>
         <p class="fw-600 mt-4">
-          Você está procurando um Detetive Particular em <b>Viana do Castelo</b>?
-          A ACIP DETETIVES PROFISSIONAIS está em <b>Viana do Castelo</b> e teremos
+          Você está procurando um Detetive Particular em <b>Vila Real</b>?
+          A ACIP DETETIVES PROFISSIONAIS está em <b>Vila Real</b> e teremos
           o prazer em ajudar você a solucionar suas dúvidas. Com mais de 20 anos de experiência e centenas de casos
           resolvidos, atuamos em todo o território nacional e países do Mercosul. Atuamos nos mais complexos casos
           de investigações conjugais, empresariais, localização de pessoas, acompanhamento de filhos envolvidos com más
@@ -20,26 +20,7 @@
           de fornecer uma solução rápida e eficaz, não importa o tipo e complexidade do seu caso ou mesmo o lugar
           em que você esteja.
         </p>
-        <h4 class="d-flex py-0 mt-40">
-          <div class="bl-temas mr-2 my-1" /> Encontre um detetive particular na sua cidade
-        </h4>
       </div>
-      <section class="col-12 px-0">
-        <div class="container px-xs-0">
-          <!-- Cidades G -->
-          <div class="position-relative overflow-hidden mt-30 col-12 d-flex row mx-auto pr-0 pt-1 pb-10 pl-45">
-            <div class="d-flex div-bolinha-letra-cidade justify-content-center align-items-center">
-              <h5 class="text-dark fw-600 mb-0">
-                V
-              </h5>
-            </div>
-            <div class="borda-top-preto-separation" />
-            <a class="d-flex col-12 mt-4 px-0 py-0 text-preto-cidades fs-sm-17 fw-600 btn align-items-center" @click.prevent="VianaDoCastelo">
-              <i class="fa fa-circle fs-12 mr-2" /> Viana do Castelo
-            </a>
-          </div>
-        </div>
-      </section>
       <div class="col-12 mt-50 px-0 d-flex row mx-auto">
         <div class="col-xs-6 col-sm-6 col-lg">
           <div class="d-flex justify-content-center">
@@ -84,38 +65,22 @@
       </div>
       <div class="col-12 px-xs-0 mt-50">
         <h4 class="text-center fs-xs-20 px-xs-0 col-xl-10 mx-auto fw-600">
-          Não perca tempo! Fale com a gente agora mesmo através dos nossos canais de atendimento.
-          <span class="d-xs-none">Confie na Acip Detetives para resolver seu problema!</span>
+          Não perca tempo! Fale com um de nossos detetives na cidade de Vila Real
         </h4>
-        <div class="d-flex mt-30 justify-content-center row mx-auto">
-          <BtnDarkLigueAgora class="col-xs-12 px-xs-0" />
-          <BtnDarkFaleNoWhatsapp class="ml-sm-3 mt-xs-10 col-xs-12 px-xs-0" />
+        <div class="d-flex mt-25 justify-content-center row mx-auto">
+          <btn-scroll-contato />
         </div>
       </div>
     </div>
   </div>
 </template>
 <script>
-import BtnDarkFaleNoWhatsapp from '../../components/buttons/btn-dark-fale-no-whatsapp.vue'
-import BtnDarkLigueAgora from '../../components/buttons/btn-dark-ligue-agora.vue'
+import BtnScrollContato from '../../../components/buttons/BtnScrollContato.vue'
 export default {
-  components: {
-    BtnDarkLigueAgora,
-    BtnDarkFaleNoWhatsapp
-  },
+  components: { BtnScrollContato },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detetive particular em Viana do Castelo | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
-  },
-  methods: {
-    VianaDoCastelo () {
-      this.$router.push('/detective-privado-em-Viana-do-Castelo/detective-privado-em-Viana-do-Castelo#sobre')
-      this.$smoothScroll({
-        scrollTo: document.getElementById('sobre'),
-        duration: 500,
-        offset: -130
-      })
-    }
+    title: 'Detetive particular em Vila Real | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
   }
 }
 </script>

@@ -3,11 +3,11 @@
     <div class="container d-flex align-items-center row mx-auto">
       <div class="col-12 px-xs-0">
         <h2 class="d-flex py-0">
-          <div class="bl-temas mr-10 my-1" /> Detetive particular em Águeda
+          <div class="bl-temas mr-10 my-1" /> Detetive particular em Valongo
         </h2>
         <p class="fw-600 mt-4">
-          Você está procurando um Detetive Particular em <b>Águeda</b>?
-          A ACIP DETETIVES PROFISSIONAIS está em <b>Águeda</b> e teremos
+          Você está procurando um Detetive Particular em <b>Valongo</b>?
+          A ACIP DETETIVES PROFISSIONAIS está em <b>Valongo</b> e teremos
           o prazer em ajudar você a solucionar suas dúvidas. Com mais de 20 anos de experiência e centenas de casos
           resolvidos, atuamos em todo o território nacional e países do Mercosul. Atuamos nos mais complexos casos
           de investigações conjugais, empresariais, localização de pessoas, acompanhamento de filhos envolvidos com más
@@ -65,7 +65,7 @@
       </div>
       <div class="col-12 px-xs-0 mt-50">
         <h4 class="text-center fs-xs-20 px-xs-0 col-xl-10 mx-auto fw-600">
-          Não perca tempo! Fale com um de nossos detetives na cidade de Águeda
+          Não perca tempo! Fale com um de nossos detetives na cidade de Valongo
         </h4>
         <div class="d-flex mt-25 justify-content-center row mx-auto">
           <btn-scroll-contato />
@@ -80,7 +80,7 @@ export default {
   components: { BtnScrollContato },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detetive particular em Águeda | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detetive particular em Valongo | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
   }
 }
 </script>
