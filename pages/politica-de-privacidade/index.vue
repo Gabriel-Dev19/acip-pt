@@ -6,8 +6,8 @@
           <div class="bl-temas mr-10 my-1" /> Política de privacidade
         </h2>
         <p class="fw-600 mt-4">
-          A sua privacidade é importante para nós. É política da ACIP Detetives respeitar a sua privacidade em relação a
-          qualquer informação sua que possamos coletar no site ACIP Detetives, e outros sites que possuímos e operamos.
+          A sua privacidade é importante para nós. É política da ACIP Detectives respeitar a sua privacidade em relação a
+          qualquer informação sua que possamos coletar no site ACIP Detectives, e outros sites que possuímos e operamos.
         </p>
         <p class="fw-600">
           Nós coletamos e utilizamos alguns dados pessoais que pertencem aqueles que utilizam nosso site. Ao fazê-lo,
@@ -25,7 +25,7 @@
           - Seus direitos em relação aos seus dados pessoais;
         </p>
         <p class="fw-600">
-          - Como entrar em contato conosco;
+          - Como entrar em contacto conosco;
         </p>
         <p class="fw-600">
           Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço.
@@ -51,7 +51,7 @@
           do usuário e informações pessoais, entre em contacto conosco.
         </p>
         <h2 class="d-flex py-0 mt-30">
-          <div class="bl-temas mr-10 my-1" /> Política de Cookies ACIP Detetives. O que são Cookies?
+          <div class="bl-temas mr-10 my-1" /> Política de Cookies ACIP Detectives. O que são Cookies?
         </h2>
         <p class="fw-600 mt-4">
           Como é prática comum em quase todos os sites profissionais, este site usa cookies, que são pequenos
@@ -99,7 +99,7 @@
           <div class="bl-temas mr-10 my-1" /> Compromisso do Usuário
         </h2>
         <p class="fw-600 mt-4">
-          O usuário se compromete a fazer uso adequado dos conteúdos e da informação que a ACIP Detetives oferece
+          O usuário se compromete a fazer uso adequado dos conteúdos e da informação que a ACIP Detectives oferece
           no site e com caráter enunciativo, mas não limitativo:
         </p>
         <p class="fw-600">
@@ -110,16 +110,16 @@
           jogos de sorte e azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;
         </p>
         <p class="fw-600">
-          <b>A)</b> Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) da ACIP Detetives, de seus
+          <b>A)</b> Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) da ACIP Detectives, de seus
           fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas
           de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
         </p>
         <h2 class="d-flex py-0 mt-30">
-          <div class="bl-temas mr-10 my-1" /> Como entrar em contato conosco
+          <div class="bl-temas mr-10 my-1" /> Como entrar em contacto conosco
         </h2>
         <p class="fw-600 mt-4">
           Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os dados pessoais que tratamos,
-          entre em contato com nosso Analista de Proteção de Dados Pessoais, através do e-mail: acipdetetives@gmail.com
+          entre em contacto com nosso Analista de Proteção de Dados Pessoais, através do e-mail: acipdetectives@gmail.com
         </p>
         <h2 class="d-flex py-0 mt-30">
           <div class="bl-temas mr-10 my-1" /> Mais informações
@@ -170,14 +170,14 @@
             </div>
           </div>
           <h6 class="text-center col-sm-11 px-xs-0 mx-auto mt-3 fs-17 fw-600">
-            Celular VIP
+            Telemóvel VIP
           </h6>
         </div>
       </div>
       <div class="col-12 px-xs-0 mt-50">
         <h4 class="text-center fs-xs-20 px-xs-0 col-xl-10 mx-auto fw-600">
           Não perca tempo! Fale com a gente agora mesmo através dos nossos canais de atendimento.
-          <span class="d-xs-none">Confie na Acip Detetives para resolver seu problema!</span>
+          <span class="d-xs-none">Confie na Acip Detectives para resolver seu problema!</span>
         </h4>
         <div class="d-flex mt-30 justify-content-center row mx-auto">
           <BtnDarkLigueAgora class="col-xs-12 px-xs-0" />

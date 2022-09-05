@@ -6,7 +6,7 @@
           <div class="bl-temas mr-10 my-1" /> Sobre nós
         </h2>
         <p class="fw-600 mt-4">
-          A ACIP DETETIVES PROFISSIONAIS é uma agencia de detetives particulares que nasceu da união de 15 profissionais
+          A ACIP DETECTIVES PROFISSIONAIS é uma agencia de detectives privadoes que nasceu da união de 15 profissionais
           da área de investigação, profissionais estes altamente capacitados e experientes para prestar um serviço
           de qualidade, seja na esfera pessoal ou empresarial.
         </p>
@@ -17,12 +17,12 @@
           obtendo é em função de um trabalho altamente profissional.
         </p>
         <p class="fw-600">
-          A ACIP DETETIVES PROFISSIONAIS tem novo conceito de investigação particular e empresarial com qualidade
+          A ACIP DETECTIVES PROFISSIONAIS tem novo conceito de investigação privado e empresarial com qualidade
           e preços justos, proporcionando a você maior credibilidade em nosso trabalho.
         </p>
         <p class="fw-600">
           Devido ao grande número de consultas, desenvolvemos um serviço personalizado de atendimento aos nossos clientes.
-          Mantendo-se 24 horas, equipes especializada e pronta para a realização de todos os serviços confiados a nossa agência.
+          Mantendo-se 24 horas, equipas especializada e pronta para a realização de todos os serviços confiados a nossa agência.
         </p>
         <p class="fw-600">
           Seja qual for o problema que você esteja enfrentando na sua vida pessoal ou nos seus negócios, somos capazes
@@ -68,14 +68,14 @@
             </div>
           </div>
           <h6 class="text-center col-sm-11 px-xs-0 mx-auto mt-3 fs-17 fw-600">
-            Celular VIP
+            Telemóvel VIP
           </h6>
         </div>
       </div>
       <div class="col-12 px-xs-0 mt-50">
         <h4 class="text-center fs-xs-20 px-xs-0 col-xl-10 mx-auto fw-600">
           Não perca tempo! Fale com a gente agora mesmo através dos nossos canais de atendimento.
-          <span class="d-xs-none">Confie na Acip Detetives para resolver seu problema!</span>
+          <span class="d-xs-none">Confie na Acip Detectives para resolver seu problema!</span>
         </h4>
         <div class="d-flex mt-30 justify-content-center row mx-auto">
           <BtnDarkLigueAgora class="col-xs-12 px-xs-0" />

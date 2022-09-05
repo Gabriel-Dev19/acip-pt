@@ -3,11 +3,11 @@
     <div class="container py-xs-40 py-sm-40 py-lg-70 px-lg-40 px-xl-50 d-flex row mx-auto bg-servico">
       <div class="col-lg-7 px-0">
         <h3 class="d-flex text-white">
-          <div class="bl-temas mr-2 my-1" /> Para que serve o Celular VIP
+          <div class="bl-temas mr-2 my-1" /> Para que serve o Telemóvel VIP
         </h3>
         <p class="text-white mb-0">
           Primeiramente é TOTALMENTE POSSÍVEL monitorar um smartphone Android com nosso programa
-          Celular VIP. Com uma simples instalação feita no celular do alvo podemos monitorar
+          Telemóvel VIP. Com uma simples instalação feita no telemóvel do alvo podemos monitorar
           mensagens das redes sociais, ligações telefônicas, e muito mais.
         </p>
       </div>
@@ -20,18 +20,18 @@
     </div>
     <div class="container mt-40 px-0">
       <h4 class="d-flex fw-500">
-        <div class="bl-temas mr-2" /> Celular VIP para filhos e funcionários
+        <div class="bl-temas mr-2" /> Telemóvel VIP para filhos e funcionários
       </h4>
       <p class="mt-20 fw-500">
-        <b>Nosso Celular VIP</b> monitora os celulares modelos Android de forma oculta e segura,
+        <b>Nosso Telemóvel VIP</b> monitora os telemóveis modelos Android de forma oculta e segura,
         é ideal para você que deseja saber o que seu filho faz na internet, com quem passa horas
         conversando e qual o teor destas conversas ou até mesmo o que seu funcionário faz na
         empresa quando você não está por perto. A instalação deverá
         ser feita no dispositivo que deseja monitorar, ou seja, não é feita à distância.
       </p>
       <p class="fw-500">
-        Adquirindo nosso Celular VIP você estará comprando um produto devidamente testado e aprovado
-        por nossa equipe técnica e desta forma poderá contar com toda nossa experiência e um suporte
+        Adquirindo nosso Telemóvel VIP você estará comprando um produto devidamente testado e aprovado
+        por nossa equipa técnica e desta forma poderá contar com toda nossa experiência e um suporte
         via telefone de qualidade e que nunca lhe deixará na mão.
       </p>
       <h4 class="d-flex mt-30 fw-500">
@@ -105,11 +105,11 @@
             <i class="fa fa-users text-cinza-espiao fw-300 fs-50" />
           </div>
           <h6 class="text-center mt-3 fw-600 text-cinza">
-            Lista de contatos
+            Lista de contactos
           </h6>
           <p class="fs-14 fw-500 mb-0 mt-2 text-center">
-            Com o Celular VIP você pode ter acesso a toda a lista de contatos
-            do celular do investigado.
+            Com o Telemóvel VIP você pode ter acesso a toda a lista de contactos
+            do telemóvel do investigado.
           </p>
         </div>
         <div class="py-4 col-lg border-cinza shadow-sm">
@@ -132,7 +132,7 @@
             Localização exata
           </h6>
           <p class="fs-14 fw-500 mb-0 mt-2 text-center">
-            Do seu próprio aparelho tenha acesso a localização exata em tempo real do celular
+            Do seu próprio aparelho tenha acesso a localização exata em tempo real do telemóvel
             do investigado.
           </p>
         </div>
@@ -146,7 +146,7 @@
             E-mails
           </h6>
           <p class="fs-14 fw-500 mb-0 mt-2 text-center">
-            Acesse a caixa de entrada de e-mails do celular do alvo e veja
+            Acesse a caixa de entrada de e-mails do telemóvel do alvo e veja
             todos os e-mails enviados e recebidos.
           </p>
         </div>
@@ -207,8 +207,8 @@
           </button>
         </h5>
         <p class="mt-3 fw-500">
-          Este documento se aplica para a utilização do nosso software para CELULAR ESPIÃO
-          oferecidos pela ACIP DETETIVES. Ao adquirir nosso software, você concorda em ficar
+          Este documento se aplica para a utilização do nosso software para TELEMÓVEL ESPIÃO
+          oferecidos pela ACIP DETECTIVES. Ao adquirir nosso software, você concorda em ficar
           vinculado por estes Termos e Condições de Uso, todas as leis e regulamentos aplicáveis,
           e concorda que você é responsável pelo cumprimento das leis locais aplicáveis.
           Caso você não concorde com qualquer um destes termos, você está expressamente
@@ -219,11 +219,11 @@
         </p>
         <p class="mt-3 fw-500">
           <i class="fa fa-minus text-azul mr-1" /> Você reconhece e declara que é proprietário legal do dispositivo
-          (celular, tablete, etc.) no qual o software será instalado, ou que tenha recebido
+          (telemóvel, tablete, etc.) no qual o software será instalado, ou que tenha recebido
           o consentimento expresso, por escrito, do usuário efetivo (caso venha a ser terceiros)
           do dispositivo, concedendo-lhe o direito de ser o administrador autorizado do telefone,
           seu conteúdo e seus usuários o monitoramento de seus sms, chamadas, localização,
-          vídeos, fotos, contatos, histórico de navegação na Internet, e ouvir suas ligações
+          vídeos, fotos, contactos, histórico de navegação na Internet, e ouvir suas ligações
           gravadas a qualquer momento, bem como destinará sua utilização somente para fins lícitos.
         </p>
         <p class="mt-3 fw-500">

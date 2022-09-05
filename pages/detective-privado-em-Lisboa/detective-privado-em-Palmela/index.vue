@@ -3,11 +3,11 @@
     <div class="container d-flex align-items-center row mx-auto">
       <div class="col-12 px-xs-0">
         <h2 class="d-flex py-0">
-          <div class="bl-temas mr-10 my-1" /> Detetive particular em Palmela
+          <div class="bl-temas mr-10 my-1" /> Detective privado em Palmela
         </h2>
         <p class="fw-600 mt-4">
-          Você está procurando um Detetive Particular em <b>Palmela</b>?
-          A ACIP DETETIVES PROFISSIONAIS está em <b>Palmela</b> e teremos
+          Você está procurando um Detective Privado em <b>Palmela</b>?
+          A ACIP DETECTIVES PROFISSIONAIS está em <b>Palmela</b> e teremos
           o prazer em ajudar você a solucionar suas dúvidas. Com mais de 20 anos de experiência e centenas de casos
           resolvidos, atuamos em todo o território nacional e países do Mercosul. Atuamos nos mais complexos casos
           de investigações conjugais, empresariais, localização de pessoas, acompanhamento de filhos envolvidos com más
@@ -59,13 +59,13 @@
             </div>
           </div>
           <h6 class="text-center col-sm-11 px-xs-0 mx-auto mt-3 fs-17 fw-600">
-            Celular VIP
+            Telemóvel VIP
           </h6>
         </div>
       </div>
       <div class="col-12 px-xs-0 mt-50">
         <h4 class="text-center fs-xs-20 px-xs-0 col-xl-10 mx-auto fw-600">
-          Não perca tempo! Fale com um de nossos detetives na cidade de Palmela
+          Não perca tempo! Fale com um de nossos detectives na cidade de Palmela
         </h4>
         <div class="d-flex mt-25 justify-content-center row mx-auto">
           <btn-scroll-contato />
@@ -80,7 +80,7 @@ export default {
   components: { BtnScrollContato },
   layout: 'LayoutPadrao',
   head: {
-    title: 'Detetive particular em Palmela | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
+    title: 'Detective privado em Palmela | Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul'
   }
 }
 </script>

@@ -5,7 +5,7 @@
         <div class="bl-temas mr-10 my-1" /> Formas de trabalho
       </h2>
       <p class="fw-600 mt-4">
-        A ACIP DETETIVES PROFISSIONAIS possui várias formas de trabalhos,
+        A ACIP DETECTIVES PROFISSIONAIS possui várias formas de trabalhos,
         oferecendo aos clientes, uma linha de coleta de informações que
         seja adequada para cada caso.
       </p>
@@ -61,11 +61,11 @@
         assim a garantia que o trabalho será prestado.
       </p>
       <h2 class="d-flex mt-60 py-0">
-        <div class="bl-temas mr-10 my-1" /> Dicas importantes ao contratar um detetive particular
+        <div class="bl-temas mr-10 my-1" /> Dicas importantes ao contratar um detective privado
       </h2>
       <p class="flex-fill mt-4 align-items-center fw-600">
         <i class="fa fa-minus fw-600 mr-1" />
-        Nunca diga a ninguém a sua intenção de contratar um detetive profissional,
+        Nunca diga a ninguém a sua intenção de contratar um detective profissional,
         somente em casos extremos e para pessoas que você realmente confia.
       </p>
       <p class="flex-fill align-items-center fw-600">
@@ -89,13 +89,13 @@
       </p>
       <p class="flex-fill align-items-center fw-600">
         <i class="fa fa-minus fw-600 mr-1" />
-        Ao pesquisar um detetive nunca contrate pessoas que divulgam somente celulares, observe se
+        Ao pesquisar um detective nunca contrate pessoas que divulgam somente telemóveles, observe se
         possui telefones fixos, isso é muito importante, lhe dando mais segurança quando possui um local.
       </p>
       <p class="flex-fill align-items-center fw-600">
         <i class="fa fa-minus fw-600 mr-1" />
         Não busque valores muito baixos, geralmente todo profissional possui suas despesas na rua com
-        suas equipes e isso gera gastos, preços baratos somente os golpistas cobram onde não irão executar
+        suas equipas e isso gera gastos, preços baratos somente os golpistas cobram onde não irão executar
         o trabalho. Fique atento(a)!
       </p>
       <p class="flex-fill align-items-center fw-600">

@@ -68,9 +68,9 @@
             Comprometimento
           </h4>
           <p class="fw-500">
-            Na Acip Detetives nós temos um compromisso absoluto
+            Na Acip Detectives nós temos um compromisso absoluto
             com seu caso e tratamos ele de forma única. Seja qual for
-            a situação, a Acip Detetives está determinada a resolver!
+            a situação, a Acip Detectives está determinada a resolver!
           </p>
         </div>
       </div>

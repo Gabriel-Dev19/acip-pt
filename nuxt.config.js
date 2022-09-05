@@ -6,14 +6,14 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Detetive particular em Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul',
+    title: 'Detective privado em Balneário Camboriú | Joinville | Florianópolis | Curitiba | Tubarão | Rio do Sul',
     htmlAttrs: {
       lang: 'pt-BR'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Somos uma agência de detetives focada em investigação empresarial, investigação conjugal, acompanhamento de filho e diversos serviços de investigação!' }
+      { hid: 'description', name: 'description', content: 'Somos uma agência de detectives focada em investigação empresarial, investigação conjugal, acompanhamento de filho e diversos serviços de investigação!' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -55,7 +55,7 @@ export default {
   },
 
   sitemap: {
-    hostname: 'https://acipdetetives.com.br/'
+    hostname: 'https://acipdetectives.pt/'
   },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

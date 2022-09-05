@@ -6,12 +6,12 @@
           <div class="bl-temas mr-10 my-1" /> Trabalhe conosco
         </h2>
         <p class="fw-600 mt-4">
-          Aos nossos alunos do nosso curso de detetive particular, oferecemos preferências nas oportunidades de trabalho.
-          Após a aprovação no curso e emissão do seu certificado você poderá fazer parte da nossa equipe de trabalho.
+          Aos nossos alunos do nosso curso de detective privado, oferecemos preferências nas oportunidades de trabalho.
+          Após a aprovação no curso e emissão do seu certificado você poderá fazer parte da nossa equipa de trabalho.
         </p>
         <p class="fw-600">
-          Você que já trabalha como detetive particular em qualquer cidade do Brasil e deseja se tornar um prestador de
-          serviços para nossa agência faça contato pelo e-mail: acipdetetives@gmail.com
+          Você que já trabalha como detective privado em qualquer cidade do Brasil e deseja se tornar um prestador de
+          serviços para nossa agência faça contacto pelo e-mail: acipdetetives@gmail.com
         </p>
         <h2 class="d-flex mt-30 py-0">
           <div class="bl-temas mr-10 my-1" /> Requisitos
@@ -20,7 +20,7 @@
           - Ser idôneo;
         </p>
         <p class="fw-600">
-          - Ser habilitado carro/moto;
+          - Ser habilitado viatura/moto;
         </p>
         <p class="fw-600">
           - Possuir veículo em boas condições de uso;
@@ -50,11 +50,11 @@
           - Treinamento desde o atendimento ao cliente até a confecção de relatórios.
         </p>
         <h2 class="d-flex mt-30 py-0">
-          <div class="bl-temas mr-10 my-1" /> Porquê a ACIP Detetives?
+          <div class="bl-temas mr-10 my-1" /> Porquê a ACIP Detectives?
         </h2>
         <p class="fw-600 mt-4">
-          Atuamos à mais de 20 anos no mercado de Investigação Particular, atuando com sucesso
-          em todas as tarefas que recebemos, possuímos a melhor equipe de profissionais do mercado,
+          Atuamos à mais de 20 anos no mercado de Investigação Privada, atuando com sucesso
+          em todas as tarefas que recebemos, possuímos a melhor equipa de profissionais do mercado,
           com experiência em diversas funções e segmentos.
         </p>
       </div>
@@ -96,14 +96,14 @@
             </div>
           </div>
           <h6 class="text-center col-sm-11 px-xs-0 mx-auto mt-3 fs-17 fw-600">
-            Celular VIP
+            Telemóvel VIP
           </h6>
         </div>
       </div>
       <div class="col-12 px-xs-0 mt-50">
         <h4 class="text-center fs-xs-20 px-xs-0 col-xl-10 mx-auto fw-600">
           Não perca tempo! Fale com a gente agora mesmo através dos nossos canais de atendimento.
-          <span class="d-xs-none">Confie na Acip Detetives para resolver seu problema!</span>
+          <span class="d-xs-none">Confie na Acip Detectives para resolver seu problema!</span>
         </h4>
         <div class="d-flex mt-30 justify-content-center row mx-auto">
           <BtnDarkLigueAgora class="col-xs-12 px-xs-0" />

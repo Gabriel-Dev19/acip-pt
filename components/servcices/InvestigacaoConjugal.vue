@@ -26,16 +26,16 @@
         <div class="bl-temas mr-2" /> Como funciona a investigação conjugal
       </h4>
       <p class="fw-500 mt-20">
-        Atuando a mais de 20 anos no ramo de investigação particular, garantimos uma
-        equipe especializada para elucidar todas as suas dúvidas, acompanharemos
+        Atuando a mais de 20 anos no ramo de investigação privado, garantimos uma
+        equipa especializada para elucidar todas as suas dúvidas, acompanharemos
         o dia a dia do alvo e todas as informações coletadas serão passadas para
         você de forma rápida e tudo dentro do mais absoluto sigilo.
       </p>
       <p class="fw-500">
         Você está com dúvidas quanto ao seu relacionamento? As desculpas que seu(a)
         parceiro(a) está lhe dando já não fazem mais sentido? Acabe com essa preocupação
-        hoje mesmo! Nós da ACIP Detetives Profissionais estamos prontos para poder ajudar
-        você. Entre em contato conosco, e tire todas as suas dúvidas.
+        hoje mesmo! Nós da ACIP Detectives Profissionais estamos prontos para poder ajudar
+        você. Entre em contacto conosco, e tire todas as suas dúvidas.
       </p>
       <p class="fw-500">
         A dúvida pode gerar danos emocionais irreparáveis para a sua vida,

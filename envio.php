@@ -18,13 +18,13 @@ $email_send = "globaldetetives@contato.com";
 $showMessage = '';
 
 
-$subject = "Contato site ACIP Detetives Profissionais";
+$subject = "Contato site ACIP Detectives Profissionais";
 $headers  = 'MIME-Version: 1.0' . "\r\n";
 $headers .= 'Content-type: text/html; charset=iso-utf-8' . "\r\n";
-$headers .= 'From: ' . 'ACIP Detetives Profissionais ' .$email_send."\r\n".
+$headers .= 'From: ' . 'ACIP Detectives Profissionais ' .$email_send."\r\n".
 'Reply-To: '.$email."\r\n" .
 'X-Mailer: PHP/' . phpversion();
-$message = 'Olá,<br/><br/> Você recebeu uma mensagem do site ACIP DETETIVES PROFISSIONAIS. Confira abaixo os detalhes da solicitação do cliente: <br/><br/>'
+$message = 'Olá,<br/><br/> Você recebeu uma mensagem do site ACIP DETECTIVES PROFISSIONAIS. Confira abaixo os detalhes da solicitação do cliente: <br/><br/>'
 . '<b>Nome:</b>      ' . $nome . '<br/>'	
 . '<b>E-mail:</b>    ' . $email . '<br/>'
 . '<b>Telefone:</b>  ' . $telefone . '<br/>'
@@ -37,7 +37,7 @@ $message = 'Olá,<br/><br/> Você recebeu uma mensagem do site ACIP DETETIVES PR
 . '<b>Horário para retorno:</b>  ' . $horario . '<br/>';
 
 mail($toEmail, $subject, $message, $headers);
-$showMessage = "Mensagem enviada com sucesso em breve entraremos em contato";
+$showMessage = "Mensagem enviada com sucesso em breve entraremos em contacto";
 
 $jsonData = array(
 	"message"	=> $showMessage

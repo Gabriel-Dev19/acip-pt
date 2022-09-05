@@ -1,12 +1,12 @@
 <template>
   <div id="contato" class="container pt-100">
     <h2 class="d-flex py-0">
-      <div class="bl-temas mr-10 my-1" /> Contato
+      <div class="bl-temas mr-10 my-1" /> Contacto
     </h2>
     <div v-show="ShowMsgSuccessFloat" class="col-12 mensagem-flutuante">
       <div class="col-12 px-0 d-flex justify-content-center">
         <div class="py-1 bg-success d-flex align-items-center shadow fw-500 justify-content-between text-white col-xl-6 rounded">
-          Mensagem enviada com sucesso, em breve entraremos em contato com você.
+          Mensagem enviada com sucesso, em breve entraremos em contacto com você.
           <button class="btn pr-0 d-flex justify-content-center align-items-center pt-0 pb-0" @click.prevent="CloseMsgSuccess">
             <i class="fa fa-times text-white fs-20 fw-400" />
           </button>
@@ -17,7 +17,7 @@
       <div class="col-lg-7 px-0 border shadow pb-3">
         <div class="bg-amarelo py-20">
           <h5 class="text-center fw-600">
-            Formulário de contato
+            Formulário de contacto
           </h5>
           <p class="mb-0 text-center col-lg-9 mx-auto fw-500 fs-14">
             Preencha o formulário abaixo para receber uma consulta de um de nossos especialistas.
@@ -25,7 +25,7 @@
         </div>
         <form autocomplete="off" class="col-12 mt-30" @submit.prevent="submit">
           <div v-show="ShowMsgSuccess" class="rounded bg-success py-1 mb-3 px-2 text-white">
-            Mensagem enviada com sucesso, em breve entraremos em contato
+            Mensagem enviada com sucesso, em breve entraremos em contacto
           </div>
           <div class="d-flex row mx-auto">
             <div class="form-group col-sm px-0">
@@ -70,14 +70,14 @@
           </div>
           <div class="d-flex row mx-auto">
             <div class="form-group col-sm px-0">
-              <label for="estado" class="fw-500 fs-15 ml-10 mb-1">Estado:</label>
+              <label for="estado" class="fw-500 fs-15 ml-10 mb-1">Distrito:</label>
               <input id="estado" v-model="estado" type="text" class="form-control" @focus="ShowMsgError = true">
               <div v-show="ShowMsgError" v-if="$v.estado.$error" class="error text-left px-2">
-                Preencha com seu estado
+                Preencha com seu distrito
               </div>
             </div>
             <div class="form-group col-sm ml-sm-3 px-0">
-              <label for="horario" class="fw-500 fs-15 ml-10 mb-1">Data para contato:</label>
+              <label for="horario" class="fw-500 fs-15 ml-10 mb-1">Data para contacto:</label>
               <input id="horario" v-model="data_contato" type="text" class="form-control" @focus="ShowMsgError = true">
               <div v-show="ShowMsgError" v-if="$v.data_contato.$error" class="error text-left px-2">
                 Coloque uma data para retorno
@@ -86,7 +86,7 @@
           </div>
           <div class="d-flex row mx-auto">
             <div class="form-group col-sm px-0">
-              <label for="data" class="fw-500 fs-15 ml-10 mb-1">Horário para contato:</label>
+              <label for="data" class="fw-500 fs-15 ml-10 mb-1">Horário para contacto:</label>
               <input id="data" v-model="horario" type="text" class="form-control" @focus="ShowMsgError = true">
               <div v-show="ShowMsgError" v-if="$v.horario.$error" class="error text-left px-2">
                 Coloque um horário para retorno
@@ -104,8 +104,8 @@
                 <option value="Investigação conjugal">
                   Investigação conjugal
                 </option>
-                <option value="Curso de detetive">
-                  Curso de detetive
+                <option value="Curso de detective">
+                  Curso de detective
                 </option>
                 <option value="Localização de pessoas">
                   Localização de pessoas
@@ -113,8 +113,8 @@
                 <option value="Acompanhamento de filho">
                   Acompanhamento de filho
                 </option>
-                <option value="Celular VIP">
-                  Celular VIP
+                <option value="Telemóvel VIP">
+                  Telemóvel VIP
                 </option>
                 <option value="Contra inteligência empresarial">
                   Contra inteligência empresarial
@@ -161,10 +161,10 @@
             </div>
           </div>
           <h4 class="text-center mt-3 fw-600">
-            Acip Detetives Profissionais
+            Acip Detectives Profissionais
           </h4>
           <p class="text-center fs-15 fw-500">
-            A Acip Detetives Profissionais é uma agência séria que preza pela confidenciabilidade
+            A Acip Detectives Profissionais é uma agência séria que preza pela confidenciabilidade
             e total profissionalismo. Nos siga nas redes sociais e fique por dentro!
           </p>
           <div class="bb-amarelo col-sm-10 mx-auto mb-4" />

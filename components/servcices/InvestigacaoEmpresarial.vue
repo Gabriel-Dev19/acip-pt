@@ -24,7 +24,7 @@
         <div class="bl-temas mr-2" /> Proteja sua empresa!
       </h4>
       <p class="fw-500 mt-20">
-        A investigação empresarial é um serviço prestado pelo detetive particular, e tem por objetivo
+        A investigação empresarial é um serviço prestado pelo detective privado, e tem por objetivo
         investigar possíveis irregularidades no ambiente de trabalho de uma empresa, ou até mesmo
         uma comportamento desleal por parte de seu sócio ou representante. Além disso, a investigação
         empresarial também pode ser solicitada quando um gestor desconfia de má conduta por parte da
@@ -94,7 +94,7 @@
         tipo de objeto indesejado, para impedir o vazamento de informações confidenciais da sua empresa.
       </p>
       <p class="fw-500">
-        Nossos detetives são devidamente qualificados para poder ajudar você e sua empresa,
+        Nossos detectives são devidamente qualificados para poder ajudar você e sua empresa,
         não perca tempo, consulte-nos hoje mesmo.
       </p>
     </div>

@@ -112,7 +112,7 @@
                     </SlideUpDown>
                   </div>
                   <a v-smooth-scroll="{duration: 500, offset: -30}" href="#contato" :class="{'mt-10': ShowLocalidadesMobile}" class="btn px-0 text-right fw-500 fs-19" @click="HideNav">
-                    Contato
+                    Contacto
                   </a>
                 </div>
                 <a href="https://wa.me/554195190579?text=Olá,+estou+visitando+o+site+da+Acip+Detetives+e+gostaria+de+receber+mais+informações" class="col-10 mx-auto btn text-white d-flex fw-500 justify-content-center align-items-center mt-35 border-radius-20 px-25 btn-whatsapp-navbar">
@@ -222,7 +222,7 @@
                 </transition>
               </div>
               <a v-smooth-scroll="{duration: 500, offset: -100}" href="#contato" class="nav-link py-1 ml-20 rounded">
-                Contato
+                Contacto
               </a>
             </div>
             <div class="width-busca px-0 position-relative d-flex align-items-center">
@@ -252,16 +252,16 @@
                   Investigação empresarial
                 </button>
                 <button class="btn btn-dropdown-servicos mt-2 fs-15 border-radius-0 col-12 py-1 fw-500" @click="Curso">
-                  Curso de detetive
+                  Curso de detective
                 </button>
                 <button class="btn btn-dropdown-servicos mt-2 fs-15 border-radius-0 col-12 py-1 fw-500" @click="LocalizacaoDePessoas">
                   Localização de pessoas
                 </button>
                 <button class="btn btn-dropdown-servicos mt-2 fs-15 border-radius-0 col-12 py-1 fw-500" @click="SoftwareEspiao">
-                  Celular VIP
+                  Telemóvel VIP
                 </button>
                 <button class="btn btn-dropdown-servicos mt-2 fs-15 border-radius-0 col-12 py-1 fw-500" @click="Adulterio">
-                  Adultério
+                  Matrimonial
                 </button>
                 <button class="btn btn-dropdown-servicos mt-2 fs-15 border-radius-0 col-12 py-1 fw-500" @click="AcompanhamentoDeFilho">
                   Acompanhamento de filho
@@ -517,6 +517,56 @@ export default {
         'espionagem i'
       ],
       BuscarConjugal: [
+        'Investigação ma',
+        'investigação ma',
+        'Investigacão ma',
+        'investigacão ma',
+        'Investigacao ma',
+        'Investigação mat',
+        'investigação mat',
+        'Investigacão mat',
+        'investigacão mat',
+        'Investigacao mat',
+        'Investigação matr',
+        'investigação matr',
+        'Investigacão matr',
+        'investigacão matr',
+        'Investigacao matr',
+        'Investigação matri',
+        'investigação matri',
+        'Investigacão matri',
+        'investigacão matri',
+        'Investigacao matri',
+        'Investigação matrim',
+        'investigação matrim',
+        'Investigacão matrim',
+        'investigacão matrim',
+        'Investigacao matrim',
+        'Investigação matrimo',
+        'investigação matrimo',
+        'Investigacão matrimo',
+        'investigacão matrimo',
+        'Investigacao matrimo',
+        'Investigação matrimon',
+        'investigação matrimon',
+        'Investigacão matrimon',
+        'investigacão matrimon',
+        'Investigacao matrimon',
+        'Investigação matrimoni',
+        'investigação matrimoni',
+        'Investigacão matrimoni',
+        'investigacão matrimoni',
+        'Investigacao matrimoni',
+        'Investigação matrimonia',
+        'investigação matrimonia',
+        'Investigacão matrimonia',
+        'investigacão matrimonia',
+        'Investigacao matrimonia',
+        'Investigação matrimonial',
+        'investigação matrimonial',
+        'Investigacão matrimonial',
+        'investigacão matrimonial',
+        'Investigacao matrimonial',
         'Investigação con',
         'investigação con',
         'Investigacão con',
@@ -579,10 +629,12 @@ export default {
         'Adultério',
         'Adulterio',
         'adultério',
-        'adulterio'
+        'adulterio',
+        'Matrimonial',
+        'matrimonial'
       ],
       BuscarCurso: [
-        'Curso de detetive',
+        'Curso de detective',
         'Curso de detetiv',
         'Curso de deteti',
         'Curso de detet',
@@ -597,10 +649,11 @@ export default {
         'Curs',
         'Cur',
         'Cu',
-        'Apostila de detetive',
-        'Apostila de detetiv',
-        'Apostila de deteti',
-        'Apostila de detet',
+        'Apostila de detective',
+        'Apostila de detectiv',
+        'Apostila de detecti',
+        'Apostila de detect',
+        'Apostila de detec',
         'Apostila de dete',
         'Apostila de det',
         'Apostila de de',
@@ -871,15 +924,17 @@ export default {
         'lo'
       ],
       BuscarEspiaoCelular: [
-        'Celular VIP',
-        'Celular VI',
-        'Celular V',
-        'Celular',
-        'Celula',
-        'Celul',
-        'Celu',
-        'Cel',
-        'Ce',
+        'Telemóvel VIP',
+        'Telemóvel VI',
+        'Telemóvel V',
+        'Telemóvel',
+        'Telemóve',
+        'Telemóv',
+        'Telemó',
+        'Telem',
+        'Tele',
+        'Tel',
+        'Te',
         'Software espião',
         'Software espiã',
         'Software espi',
@@ -922,30 +977,34 @@ export default {
         'espião de c',
         'espião de',
         'espião d',
-        'Celular espião',
-        'Celular espiã',
-        'Celular espi',
-        'Celular esp',
-        'Celular es',
-        'Celular e',
-        'Celular',
-        'Celula',
-        'Celul',
-        'Celu',
-        'Cel',
-        'Ce',
-        'celular espião',
-        'celular espiã',
-        'celular espi',
-        'celular esp',
-        'celular es',
-        'celular e',
-        'celular',
-        'celula',
-        'celul',
-        'celu',
-        'cel',
-        'ce'
+        'Telemóvel espião',
+        'Telemóvel espiã',
+        'Telemóvel espi',
+        'Telemóvel esp',
+        'Telemóvel es',
+        'Telemóvel e',
+        'Telemóvel',
+        'Telemóve',
+        'Telemóv',
+        'Telemó',
+        'Telem',
+        'Tele',
+        'Tel',
+        'Te',
+        'telemóvel espião',
+        'telemóvel espiã',
+        'telemóvel espi',
+        'telemóvel esp',
+        'telemóvel es',
+        'telemóvel e',
+        'telemóvel',
+        'telemóve',
+        'telemóv',
+        'telemó',
+        'telem',
+        'tele',
+        'tel',
+        'te'
       ]
     }
   },
@@ -1092,7 +1151,7 @@ export default {
       this.VerificaCampoBuscaVazio()
     },
     Curso () {
-      this.ConteudoBusca = 'Curso de detetive'
+      this.ConteudoBusca = 'Curso de detective'
       this.VerificaCampoBuscaVazio()
     },
     LocalizacaoDePessoas () {
@@ -1100,11 +1159,11 @@ export default {
       this.VerificaCampoBuscaVazio()
     },
     SoftwareEspiao () {
-      this.ConteudoBusca = 'Celular VIP'
+      this.ConteudoBusca = 'Telemóvel VIP'
       this.VerificaCampoBuscaVazio()
     },
     Adulterio () {
-      this.ConteudoBusca = 'Adultério'
+      this.ConteudoBusca = 'Matrimonial'
       this.VerificaCampoBuscaVazio()
     },
     Traicao () {

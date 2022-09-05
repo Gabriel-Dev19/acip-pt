@@ -117,7 +117,7 @@ export default {
       this.ShowServicoSoftwareEspiao = false
     })
     this.$root.$on('EmitShowServicoCurso', () => {
-      this.TitleServicos = 'Curso de detetive particular'
+      this.TitleServicos = 'Curso de detective privado'
       this.ShowServicoInvestigacaoEmpresarial = false
       this.ShowServicoInvestigacaoConjugal = false
       this.ShowServicoCurso = false
@@ -149,7 +149,7 @@ export default {
       this.ShowServicoSoftwareEspiao = false
     })
     this.$root.$on('EmitShowServicoSoftwareEspiao', () => {
-      this.TitleServicos = 'Celular VIP'
+      this.TitleServicos = 'Telemóvel VIP'
       this.ShowServicoInvestigacaoEmpresarial = false
       this.ShowServicoInvestigacaoConjugal = false
       this.ShowServicoCurso = false

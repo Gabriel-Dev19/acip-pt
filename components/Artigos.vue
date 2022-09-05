@@ -6,7 +6,7 @@
       </h5>
       <p class="mb-0 fs-15 fw-500">
         Fazemos uma investigação empresarial completa na sua empresa, isso inclui varredura de escutas,
-        investigação de funcionário, celular espião para monitoramento dos funcionários nas redes sociais
+        investigação de funcionário, telemóvel espião para monitoramento dos funcionários nas redes sociais
         como WhatsApp, Facebook, Instagram, acesso a câmera do aparelho do investigado e muitas outras
         funcionalidades.
       </p>
@@ -48,21 +48,21 @@
     </div>
     <div v-show="ShowCurso" class="borda-artigos shadow-sm mt-3 rounded p-3">
       <h5 class="fw-600">
-        Curso de detetive particular
+        Curso de detective privado
       </h5>
       <p class="mb-0 fs-15 fw-500">
-        Com nosso curso de detetive você vai ter um material completo sobre investigação conjugal,
+        Com nosso curso de detective você vai ter um material completo sobre investigação conjugal,
         investigação empresarial, localização de pessoas e muitas outras tecnicas de investigação.
       </p>
       <div class="d-flex">
         <a v-smooth-scroll="{duration: 500, offset: - 100}" href="#servicos" class="btn mt-3 shadow-sm py-1 d-flex align-items-center fw-500 btn-dark" @click="$root.$emit('EmitShowServicoCurso')">
-          Curso de detetive <i class="fa fa-arrow-right fw-400 ml-2 fs-14" />
+          Curso de detective <i class="fa fa-arrow-right fw-400 ml-2 fs-14" />
         </a>
       </div>
     </div>
     <div v-show="ShowSoftwareEspiao" class="borda-artigos shadow-sm mt-3 rounded p-3">
       <h5 class="fw-600">
-        Celular VIP
+        Telemóvel VIP
       </h5>
       <p class="mb-0 fs-15 fw-500">
         Ao usar aparelhos localizadores rastreamos o alvo das mais variadas formas e técnicas. O alvo
@@ -71,7 +71,7 @@
       </p>
       <div class="d-flex">
         <a v-smooth-scroll="{duration: 500, offset: - 100}" href="#servicos" class="btn mt-3 shadow-sm py-1 d-flex align-items-center fw-500 btn-dark" @click="$root.$emit('EmitShowServicoSoftwareEspiao')">
-          Celular VIP <i class="fa fa-arrow-right fw-400 ml-2 fs-14" />
+          Telemóvel VIP <i class="fa fa-arrow-right fw-400 ml-2 fs-14" />
         </a>
       </div>
     </div>

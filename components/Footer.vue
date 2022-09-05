@@ -38,10 +38,10 @@
               <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Acompanhamento de filho
             </a>
             <a v-smooth-scroll="{duration: 500, offset: -30}" href="#servicos" class="col-12 no-underline fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center justify-content-xs-center justify-content-sm-center justify-content-lg-start fs-17 px-0" @click.prevent="$root.$emit('EmitShowServicoSoftwareEspiao')">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Celular VIP
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Telemóvel VIP
             </a>
             <a v-smooth-scroll="{duration: 500, offset: -100}" href="#servicos" class="col-12 no-underline fw-600 mt-2 d-xs-none d-sm-none d-xl-flex align-items-center justify-content-xs-center justify-content-sm-center justify-content-lg-start fs-17 px-0" @click.prevent="$root.$emit('EmitShowServicoSoftwareEspiao')">
-              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Celular VIP
+              <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Telemóvel VIP
             </a>
             <a class="col-12 no-underline fw-600 mt-2 d-xs-flex d-sm-flex d-xl-none align-items-center cursor-pointer justify-content-xs-center justify-content-sm-center justify-content-lg-start fs-17 px-0" @click.prevent="PoliticaMobile">
               <i class="fa fa-angle-right fw-400 mr-2 fs-18" /> Política de privacidade

@@ -9,7 +9,7 @@
           Sabemos o quanto pode ser difícil cuidar dos filhos na adolescência, por isso oferecemos o serviço
           de acompanhamento de filho, nós seguimos o alvo e fazemos anotações de tudo que ele faz, assim
           você pode ter todas as informações do que seu filho faz longe de você. Também podemos fazer o
-          acompanhamento por meio do Celular VIP, assim nós temos acesso a tudo que seu flho
+          acompanhamento por meio do Telemóvel VIP, assim nós temos acesso a tudo que seu flho
           conversa com as pessoas.
         </p>
       </div>
@@ -35,11 +35,11 @@
       <p class="fw-500">
         Nessa fase transitória que ocorre dos 13 aos 17 anos geralmente, ocorre várias descobertas
         pelo adolescentes sejam boas ou ruins, é nessa fase ocorre mudanças de comportamento,
-        definição da opção sexual, contato com álcool e até no relacionamento com os pais, que percebem
+        definição da opção sexual, contacto com álcool e até no relacionamento com os pais, que percebem
         essas alterações que preocupam mas muitos não sabem como chegar para conversar com os filhos ter
         uma maior aproximação e nessa hora procuram ajuda de um profissional e que nem sempre é bem aceito
         pelo adolescente o que acaba afastando ainda mais. E por motivos como esse e para não acusar o
-        adolescente somente por suposições que muitas pais procuram o acompanhamento de um detetive particular.
+        adolescente somente por suposições que muitas pais procuram o acompanhamento de um detective privado.
       </p>
       <h4 class="d-flex mt-30 fw-500">
         <div class="bl-temas mr-2" /> Abaixo algumas dicas que servem para alerta dos pais:
@@ -79,7 +79,7 @@
       <p class="fw-500 mt-20">
         Esses são apenas alguns sinais que podemos perceber em nossos filhos ou irmãos adolescentes
         que servem de alerta para iniciar uma investigação, seja por nós mesmos em casa, ou com
-        o acompanhamento de um detetive particular.
+        o acompanhamento de um detective privado.
       </p>
     </div>
   </div>

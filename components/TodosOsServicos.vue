@@ -83,7 +83,7 @@
           </h5>
           <p class="fs-15 text-white">
             Procurar por um ente querido desaparecido, ou até mesmo um devedor é algo que pode
-            gerar muita angústia. Queremos te ajudar, entre em contato agora mesmo!
+            gerar muita angústia. Queremos te ajudar, entre em contacto agora mesmo!
           </p>
           <div class="d-flex">
             <a v-smooth-scroll="{duration: 500, offset: -30}" href="#servicos" class="btn mb-3 fw-500 py-xs-2 d-xs-flex d-sm-flex d-md-none align-items-center btn-amarelo" @click="$root.$emit('EmitShowServicoLocalizacaoDePessoas')">
@@ -120,22 +120,22 @@
       <div class="col-lg-4 ml-lg-3 px-0 shadow d-flex height-div-servicos position-relative bg-curso">
         <div class="px-3 align-self-end ">
           <h5 class="text-white d-flex mb-1">
-            <div class="bl-temas mr-2 my-1" /> Curso de detetive particular
+            <div class="bl-temas mr-2 my-1" /> Curso de detective privado
           </h5>
           <p class="fs-15 text-white">
-            A Acip Detetives Profissionais agora possui um curso onde preparamos os alunos
-            detetives para o mercado de trabalho.
+            A Acip Detectives Profissionais agora possui um curso onde preparamos os alunos
+            detectives para o mercado de trabalho.
           </p>
           <div class="d-flex">
             <a v-smooth-scroll="{duration: 500, offset: -30}" href="#servicos" class="btn mb-3 fw-500 py-xs-2 d-xs-flex d-sm-flex d-md-none align-items-center btn-amarelo" @click="$root.$emit('EmitShowServicoCurso')">
-              Curso de detetive <i class="fa fs-14 fw-300 ml-2 fa-arrow-right" />
+              Curso de detective <i class="fa fs-14 fw-300 ml-2 fa-arrow-right" />
             </a>
           </div>
         </div>
         <div class="col-12 details-servicos d-xs-none d-sm-none d-md-flex align-items-center h-100">
           <div class="col-12 px-0">
             <h4 class="text-center">
-              Curso de detetive
+              Curso de detective
             </h4>
             <p class="fs-15 fw-500 mt-3 text-center">
               Clique aqui e tenha mais informações sobre nossos serviços.
@@ -157,7 +157,7 @@
           </h5>
           <p class="fs-15 text-white">
             Quando os filhos estão na fase da adolescência, as coisas são bem mais difíceis
-            para os pais, por isso nós da ACIP Detetives estamos a disposição para ajudar.
+            para os pais, por isso nós da ACIP Detectives estamos a disposição para ajudar.
           </p>
           <div class="d-flex">
             <a v-smooth-scroll="{duration: 500, offset: -30}" href="#servicos" class="btn mb-3 fw-500 py-xs-2 d-xs-flex d-sm-flex d-md-none align-items-center btn-amarelo" @click="$root.$emit('EmitShowServicoAcompanhamento')">
@@ -184,23 +184,23 @@
       <div class="col-lg px-0 mt-xs-3 mt-sm-3 mt-lg-0 shadow d-flex height-div-servicos position-relative bg-celular-espiao">
         <div class="px-3 align-self-end ">
           <h5 class="text-white d-flex mb-1">
-            <div class="bl-temas mr-2 my-1" /> Celular VIP
+            <div class="bl-temas mr-2 my-1" /> Telemóvel VIP
           </h5>
           <p class="fs-15 text-white">
-            Nosso programa de Celular VIP tem diversas funcionalidades, monitora mensagens de redes sociais,
+            Nosso programa de Telemóvel VIP tem diversas funcionalidades, monitora mensagens de redes sociais,
             apresenta a localização do alvo em tempo real,
             fornece acesso a câmera do aparelho onde você terá acesso a imagens e áudio em tempo real, entre outras.
           </p>
           <div class="d-flex">
             <a v-smooth-scroll="{duration: 500, offset: -30}" href="#servicos" class="btn mb-3 fw-500 py-xs-2 d-xs-flex d-sm-flex d-md-none align-items-center btn-amarelo" @click="$root.$emit('EmitShowServicoSoftwareEspiao')">
-              Celular VIP <i class="fa fs-14 fw-300 ml-2 fa-arrow-right" />
+              Telemóvel VIP <i class="fa fs-14 fw-300 ml-2 fa-arrow-right" />
             </a>
           </div>
         </div>
         <div class="col-12 details-servicos d-xs-none d-sm-none d-md-flex align-items-center h-100">
           <div class="col-12 px-0">
             <h4 class="text-center">
-              Celular VIP
+              Telemóvel VIP
             </h4>
             <p class="fs-15 fw-500 col-lg-10 mx-auto mt-3 text-center">
               Clique aqui e tenha mais informações sobre nossos serviços.

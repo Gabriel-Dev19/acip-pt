@@ -6,9 +6,9 @@
           <div class="bl-temas mr-2 my-1" /> Para que serve a localização de pessoas desaparecidas
         </h3>
         <p class="text-white mb-0">
-          A Acip Detetives Profissionais fornece o mais completo serviço de localização de pessoas desaparecidas
+          A Acip Detectives Profissionais fornece o mais completo serviço de localização de pessoas desaparecidas
           do Brasil. Depois de encontrar o alvo, fornecemos a pessoa que solicitou a investigação
-          um dossiê completo contendo todas as informações do investigado como endereço de moradia,
+          um dossiê completo contendo todas as informações do investigado como morada,
           local de trabalho, relacionamentos, círculo de amizades, atividades que a pessoa costuma
           fazer, dentre outras informações pessoais sobre o investigado.
         </p>
@@ -32,14 +32,14 @@
         todo o contexto da situação e assim montamos uma estratégia para a <b>localização da pessoa</b>.
       </p>
       <p class="fw-500">
-        Para que o caso possua um final feliz, o cliente precisará trabalhar em conjunto com os detetives,
+        Para que o caso possua um final feliz, o cliente precisará trabalhar em conjunto com os detectives,
         fornecendo pistas, documentos que ajudem na <b>localização da pessoa</b>. Trabalhamos sempre com o objetivo
         de encontrar em até 24 horas a pessoa, pois como dizem: As primeiras 48 horas são muito
         importantes para se ter sucesso.
       </p>
       <p class="fw-500">
-        A ACIP DETETIVES PROFISSIONAIS conta com detetives especializados e capacitados para ajudar
-        você na busca do seu ente querido. Não deixe para amanhã, entre em contato conosco hoje mesmo,
+        A ACIP DETECTIVES PROFISSIONAIS conta com detectives especializados e capacitados para ajudar
+        você na busca do seu ente querido. Não deixe para amanhã, entre em contacto conosco hoje mesmo,
         que iremos lhe ajudar!
       </p>
     </div>
