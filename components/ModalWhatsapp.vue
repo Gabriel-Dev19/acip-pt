@@ -13,8 +13,7 @@
               Olá!
             </h5>
             <p class="line-height-p mt-1 fw-500 fs-15 mb-0">
-              Seja bem vindo a nossa central de atendimento, clique no whatsapp
-              correspondente a região que deseja ser atendido.
+              Seja bem vindo a nossa central de atendimento.
             </p>
           </div>
           <button class="btn pt-2" @click.prevent="$root.$emit('HideModalWhatsapp')">
