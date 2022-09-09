@@ -48,7 +48,7 @@
         e Inteligência Privada).
       </p>
       <h4 class="d-flex fw-500 mt-40">
-        <div class="bl-temas mr-2" /> Curso de Detective Privado a distância para todo o Brasil
+        <div class="bl-temas mr-2" /> Curso de Detective Privado a distância para todo o Portugal
       </h4>
       <p class="fw-500 mt-20">
         A ACIP Detectives atua no mercado da Investigação Privada a mais de 20 anos, baseado em toda experiência adquirida ao

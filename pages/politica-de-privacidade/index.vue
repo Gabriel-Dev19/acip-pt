@@ -193,9 +193,9 @@ import BtnDarkLigueAgora from '../../components/buttons/btn-dark-ligue-agora.vue
 export default {
   head: {
     link: [
-      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/', hreflang: 'x-default' },
-      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/', hreflang: 'pt-br' },
-      { rel: 'alternate', href: 'https://www.acipdetectives.pt/', hreflang: 'pt' }
+      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/politica-de-privacidade', hreflang: 'x-default' },
+      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/politica-de-privacidade', hreflang: 'pt-br' },
+      { rel: 'alternate', href: 'https://www.acipdetectives.pt/politica-de-privacidade', hreflang: 'pt' }
     ]
   },
   components: { BtnDarkLigueAgora, BtnDarkFaleNoWhatsapp },

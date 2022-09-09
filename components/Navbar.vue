@@ -170,52 +170,52 @@
                     <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Aveiro">
                       Aveiro
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Braga">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Braga">
                       Braga
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Braganca">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Braganca">
                       Bragança
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="CasteloBranco">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="CasteloBranco">
                       Castelo Branco
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Coimbra">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Coimbra">
                       Coimbra
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Evora">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Evora">
                       Évora
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Faro">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Faro">
                       Faro
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Guarda">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Guarda">
                       Guarda
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Leiria">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Leiria">
                       Leiria
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Lisboa">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Lisboa">
                       Lisboa
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Portalegre">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Portalegre">
                       Portalegre
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Porto">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Porto">
                       Porto
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Santarem">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Santarem">
                       Santarém
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Setubal">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Setubal">
                       Setúbal
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="VianaDoCastelo">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="VianaDoCastelo">
                       Viana do Castelo
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="VilaReal">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="VilaReal">
                       Vila Real
                     </a>
-                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12" @click.prevent="Viseu">
+                    <a class="btn btn-outline-dark fw-600 shadow-sm py-1 col-12 mt-1" @click.prevent="Viseu">
                       Viseu
                     </a>
                   </div>

@@ -10,7 +10,7 @@
           Após a aprovação no curso e emissão do seu certificado você poderá fazer parte da nossa equipa de trabalho.
         </p>
         <p class="fw-600">
-          Você que já trabalha como detective privado em qualquer cidade do Brasil e deseja se tornar um prestador de
+          Você que já trabalha como detective privado em qualquer cidade de Portugal e deseja se tornar um prestador de
           serviços para nossa agência faça contacto pelo e-mail: contacto@acipdetectives.com.br
         </p>
         <h2 class="d-flex mt-30 py-0">
@@ -117,15 +117,15 @@
 import BtnDarkFaleNoWhatsapp from '../../components/buttons/btn-dark-fale-no-whatsapp.vue'
 import BtnDarkLigueAgora from '../../components/buttons/btn-dark-ligue-agora.vue'
 export default {
+  components: { BtnDarkLigueAgora, BtnDarkFaleNoWhatsapp },
+  layout: 'LayoutPadrao',
   head: {
     link: [
-      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/', hreflang: 'x-default' },
-      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/', hreflang: 'pt-br' },
-      { rel: 'alternate', href: 'https://www.acipdetectives.pt/', hreflang: 'pt' }
+      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/trabalhe-conosco', hreflang: 'x-default' },
+      { rel: 'alternate', href: 'https://www.acipdetetives.com.br/trabalhe-conosco', hreflang: 'pt-br' },
+      { rel: 'alternate', href: 'https://www.acipdetectives.pt/trabalhe-conosco', hreflang: 'pt' }
     ]
-  },
-  components: { BtnDarkLigueAgora, BtnDarkFaleNoWhatsapp },
-  layout: 'LayoutPadrao'
+  }
 }
 </script>
 

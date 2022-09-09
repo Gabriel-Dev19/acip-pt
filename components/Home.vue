@@ -57,7 +57,7 @@
                   Localização de pessoas desaparecidas
                 </h1>
                 <p class="mb-0 text-white">
-                  Localizamos pessoas desaparecidas por quaisquer que sejam os motivos em todo Brasil.
+                  Localizamos pessoas desaparecidas por quaisquer que sejam os motivos em todo Portugal.
                   Tudo será apurado e apresentado a você juntamente com um relatório. Entregaremos
                   tudo em suas mãos!
                 </p>
