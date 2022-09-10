@@ -119,7 +119,7 @@
         </h2>
         <p class="fw-600 mt-4">
           Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os dados pessoais que tratamos,
-          entre em contacto com nosso Analista de Proteção de Dados Pessoais, através do e-mail: contacto@acipdetectives.com.br
+          entre em contacto com nosso Analista de Proteção de Dados Pessoais, através do e-mail: contacto@acipdetectives.pt
         </p>
         <h2 class="d-flex py-0 mt-30">
           <div class="bl-temas mr-10 my-1" /> Mais informações
