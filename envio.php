@@ -13,8 +13,8 @@ $data_contato = $data['data_contato'];
 $mensagem = $data['mensagem'];
 $tipo_pessoa = $data['tipo_pessoa'];
 
-$toEmail = "detetiveparticularcuritiba@gmail.com";
-$email_send = "globaldetetives@contato.com";
+$toEmail = "contacto@acipdetectives.pt";
+$email_send = "acipdetetives@contato.com";
 $showMessage = '';
 
 
