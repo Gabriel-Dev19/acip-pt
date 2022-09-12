@@ -89,7 +89,7 @@
       </p>
       <p class="flex-fill align-items-center fw-600">
         <i class="fa fa-minus fw-600 mr-1" />
-        Ao pesquisar um detective nunca contrate pessoas que divulgam somente telemóveles, observe se
+        Ao pesquisar um detective nunca contrate pessoas que divulgam somente telemóveis, observe se
         possui telefones fixos, isso é muito importante, lhe dando mais segurança quando possui um local.
       </p>
       <p class="flex-fill align-items-center fw-600">
