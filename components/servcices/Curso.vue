@@ -113,7 +113,8 @@
             Versão impressa
           </h5>
           <h1 class="fw-700 d-flex justify-content-center align-items-start">
-            € 669 <span class="fs-11 fw-500 mt-10 ml-1">99</span>
+            669 <span class="fs-11 fw-500 mt-10 ml-1">99</span>
+            <span class="ml-1"> € </span>
           </h1>
           <p class="text-center fw-500 mt-15">
             Enviaremos para sua casa o material didático, impresso em papel colchê 180grs, com acabamento de primeira linha e você
@@ -133,7 +134,8 @@
             Versão digital
           </h5>
           <h1 class="fw-700 d-flex justify-content-center align-items-start">
-            € 569 <span class="fs-11 fw-500 mt-10 ml-1">99</span>
+            569 <span class="fs-11 fw-500 mt-10 ml-1">99</span>
+            <span class="ml-1"> € </span>
           </h1>
           <p class="text-center fw-500 mt-15">
             Enviaremos esta versão para seu e-mail assim que o pagamento for concluído. Desta forma você terá em
